@@ -73,7 +73,7 @@ def main():
 
         req_info.append(indv_elem)
         
-    del(req_info[0])
+    req_info[0] = ["Class/Section", "Period No.", "Teacher", "Subject", "Week"]
     
     np.savetxt("REQUIRED.csv", req_info, delimiter=", ", fmt='% s')
 
