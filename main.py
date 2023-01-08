@@ -1,4 +1,5 @@
 import xml.dom.minidom
+import numpy as np
 
 def main():
     '''Presenting formatted data from the timetable xml file'''    
@@ -39,6 +40,41 @@ def main():
     card_dict = {}
     for data in card:
         card_dict[data.getAttribute("lessonid")] = [data.getAttribute("period"), data.getAttribute("weeks")]
+
+    # Using dicts to get required information
+    req_info = [[]]
+    for key, value in card_dict.items():
+        indv_elem = []
+        
+        # Class
+        class_id = lesson_dict.get(key)[0]
+        indv_elem.append(class_dict.get(class_id))
+        
+        # Period
+        indv_elem.append(value[0])
+        
+        # Teacher name
+        teacher_id = lesson_dict.get(key)[2]
+        indv_elem.append(teacher_dict.get(teacher_id))
+        
+        # Subject
+        subject_id = lesson_dict.get(key)[1]
+        indv_elem.append(subject_dict.get(subject_id))
+        
+        # Week
+        if (value[1] == 10):
+            indv_elem.append("Odd")
+        elif (value[1] == 10):
+            indv_elem.append("Even")
+        else:
+            indv_elem.append("All")
+        
+        req_info.append(indv_elem)
+        
+    
+    np.savetxt("GFG.csv", req_info, delimiter = ", ", fmt ='% s')      
+        
+      
 
 
 if __name__ == "__main__":
