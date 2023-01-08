@@ -71,11 +71,9 @@ def main():
         
         req_info.append(indv_elem)
         
+    del(req_info[0])
     
-    np.savetxt("GFG.csv", req_info, delimiter = ", ", fmt ='% s')      
-        
-      
-
+    np.savetxt("Data.csv", req_info, delimiter = ", ", fmt ='% s')      
 
 if __name__ == "__main__":
     main();
