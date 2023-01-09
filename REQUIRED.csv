@@ -1,86 +1,85 @@
 Class/Section, Period No., Teacher, Subject, Week
-7A, 5, Deboshree Ch. Basak, Chemistry, Even
 9E, 2, Maushumi Rudra, Geog_9_10, All
-10A, 11, None, Computer_Sr, All
-10B, 11, None, Computer_Sr, All
+10A, 11, No teacher, Computer_Sr, All
+10B, 11, No teacher, Computer_Sr, All
 7D, 10, Deboshree Ch. Basak, Chemistry, Even
 9J, 2, Nilanjana Chakraborty, Geog_9_10, All
 9H, 1, Ajay Bhattacharjee, Geog_9_10, All
-None, 4, Manoj K Sharma, Hindi(3rd), All
-None, 9, Neetu Laroiya, French, All
-None, 4, Shikha Mehrotra_Hindi, Hindi(3rd), All
-None, 4, Neetu Laroiya, French, All
-None, 1, Neetu Laroiya, French, All
-None, 10, Neetu Laroiya, French, All
-None, 2, Samir Bhatta_Ben, Bengali(3rd), All
+6D-6E-6F, 4, Manoj K Sharma, Hindi(3rd), All
+6D-6E-6F, 9, Neetu Laroiya, French, All
+6J-6K-6L, 4, Shikha Mehrotra_Hindi, Hindi(3rd), All
+6G-6H-6I, 4, Neetu Laroiya, French, All
+8A-8B-8C-8D, 1, Neetu Laroiya, French, All
+8E-8F-8G-8H, 10, Neetu Laroiya, French, All
+8A-8B-8C-8D, 2, Samir Bhatta_Ben, Bengali(3rd), All
 9L, 11, Roma Sarkar, Geog_9_10, All
 9F, 2, Roma Sarkar, Geog_9_10, All
-3I, 10, None, Computer_Jr, All
-3H, 6, None, Computer_Jr, All
-3G, 5, None, Computer_Jr, All
-3F, 10, None, Computer_Jr, All
-3E, 2, None, Computer_Jr, All
-3D, 4, None, Computer_Jr, All
-3C, 6, None, Computer_Jr, All
-3B, 10, None, Computer_Jr, All
-3A, 9, None, Computer_Jr, All
-4A, 2, None, Library _Jr, All
-4B, 10, None, Library _Jr, All
-4C, 6, None, Library _Jr, All
-4D, 4, None, Library _Jr, All
-4E, 6, None, Library _Jr, All
-4F, 10, None, Library _Jr, All
-4G, 10, None, Library _Jr, All
-4H, 10, None, Library _Jr, All
-4I, 1, None, Library _Jr, All
-4J, 9, None, Library _Jr, All
-4K, 10, None, Library _Jr, All
-4L, 1, None, Library _Jr, All
-5A, 9, None, Library _Jr, All
-5F, 6, None, Library _Jr, All
-5E, 10, None, Library _Jr, All
-5C, 10, None, Library _Jr, All
-5D, 1, None, Library _Jr, All
-5B, 4, None, Library _Jr, All
-5L, 9, None, Library _Jr, All
-5K, 5, None, Library _Jr, All
-5J, 1, None, Library _Jr, All
-5I, 5, None, Library _Jr, All
-5H, 5, None, Library _Jr, All
-5G, 5, None, Library _Jr, All
-4A, 5, None, Computer_Jr, All
-4B, 4, None, Computer_Jr, All
-5K, 10, None, Computer_Jr, All
-5L, 1, None, Computer_Jr, All
-5I, 1, None, Computer_Jr, All
-5H, 4, None, Computer_Jr, All
-5F, 10, None, Computer_Jr, All
-5J, 9, None, Computer_Jr, All
-5G, 9, None, Computer_Jr, All
-4L, 2, None, Computer_Jr, All
-4K, 4, None, Computer_Jr, All
-4J, 4, None, Computer_Jr, All
-4I, 5, None, Computer_Jr, All
-4H, 2, None, Computer_Jr, All
-4G, 4, None, Computer_Jr, All
-4F, 4, None, Computer_Jr, All
-4E, 1, None, Computer_Jr, All
-4D, 10, None, Computer_Jr, All
-4C, 5, None, Computer_Jr, All
+3I, 10, No teacher, Computer_Jr, All
+3H, 6, No teacher, Computer_Jr, All
+3G, 5, No teacher, Computer_Jr, All
+3F, 10, No teacher, Computer_Jr, All
+3E, 2, No teacher, Computer_Jr, All
+3D, 4, No teacher, Computer_Jr, All
+3C, 6, No teacher, Computer_Jr, All
+3B, 10, No teacher, Computer_Jr, All
+3A, 9, No teacher, Computer_Jr, All
+4A, 2, No teacher, Library _Jr, All
+4B, 10, No teacher, Library _Jr, All
+4C, 6, No teacher, Library _Jr, All
+4D, 4, No teacher, Library _Jr, All
+4E, 6, No teacher, Library _Jr, All
+4F, 10, No teacher, Library _Jr, All
+4G, 10, No teacher, Library _Jr, All
+4H, 10, No teacher, Library _Jr, All
+4I, 1, No teacher, Library _Jr, All
+4J, 9, No teacher, Library _Jr, All
+4K, 10, No teacher, Library _Jr, All
+4L, 1, No teacher, Library _Jr, All
+5A, 9, No teacher, Library _Jr, All
+5F, 6, No teacher, Library _Jr, All
+5E, 10, No teacher, Library _Jr, All
+5C, 10, No teacher, Library _Jr, All
+5D, 1, No teacher, Library _Jr, All
+5B, 4, No teacher, Library _Jr, All
+5L, 9, No teacher, Library _Jr, All
+5K, 5, No teacher, Library _Jr, All
+5J, 1, No teacher, Library _Jr, All
+5I, 5, No teacher, Library _Jr, All
+5H, 5, No teacher, Library _Jr, All
+5G, 5, No teacher, Library _Jr, All
+4A, 5, No teacher, Computer_Jr, All
+4B, 4, No teacher, Computer_Jr, All
+5K, 10, No teacher, Computer_Jr, All
+5L, 1, No teacher, Computer_Jr, All
+5I, 1, No teacher, Computer_Jr, All
+5H, 4, No teacher, Computer_Jr, All
+5F, 10, No teacher, Computer_Jr, All
+5J, 9, No teacher, Computer_Jr, All
+5G, 9, No teacher, Computer_Jr, All
+4L, 2, No teacher, Computer_Jr, All
+4K, 4, No teacher, Computer_Jr, All
+4J, 4, No teacher, Computer_Jr, All
+4I, 5, No teacher, Computer_Jr, All
+4H, 2, No teacher, Computer_Jr, All
+4G, 4, No teacher, Computer_Jr, All
+4F, 4, No teacher, Computer_Jr, All
+4E, 1, No teacher, Computer_Jr, All
+4D, 10, No teacher, Computer_Jr, All
+4C, 5, No teacher, Computer_Jr, All
 4L, 9, Mahua D'Rozario, EVS.SST.IV, All
 7K, 6, Somalii Jana, Chemistry, Odd
 9A, 5, Dablu Barman, Geog_9_10, All
 9B, 5, Surita Chakraborty, Geog_9_10, All
 4A, 6, Jayshree Eshwar, EVS.SST.IV, All
-9C, 9, None, Computer_Sr, Odd
-9E, 6, None, Computer_Sr, Odd
-9F, 4, None, Computer_Sr, Even
-9G, 5, None, Computer_Sr, Odd
-9H, 1, None, Computer_Sr, Odd
-9I, 11, None, Computer_Sr, Even
-9J, 1, None, Computer_Sr, Even
-9K, 6, None, Computer_Sr, Odd
-9L, 2, None, Computer_Sr, Odd
+9C, 9, No teacher, Computer_Sr, Odd
+9E, 6, No teacher, Computer_Sr, Odd
+9F, 4, No teacher, Computer_Sr, Even
+9G, 5, No teacher, Computer_Sr, Odd
+9H, 1, No teacher, Computer_Sr, Odd
+9I, 11, No teacher, Computer_Sr, Even
+9J, 1, No teacher, Computer_Sr, Even
+9K, 6, No teacher, Computer_Sr, Odd
+9L, 2, No teacher, Computer_Sr, Odd
 3D, 6, Pallavi Dey, EVS III, All
 3L, 6, Mahua D'Rozario, EVS III, All
 4I, 2, Srijan Biswas, EVS.SST.IV, All
@@ -94,39 +93,39 @@ None, 2, Samir Bhatta_Ben, Bengali(3rd), All
 2A, 9, Ankush Das, Mu_Vocal_Jr, All
 2A, 1, Kirti Kochar, Maths.Jr, All
 2B, 9, Somali Pahari, Dance_Jr, All
-2B, 6, None, Library _Jr, All
+2B, 6, No teacher, Library _Jr, All
 2B, 5, Ankush Das, Mu_Vocal_Jr, All
-None, 10, Archana Dwivedi, Hindi(2nd).Jr, All
+2A-2B, 10, Archana Dwivedi, Hindi(2nd).Jr, All
 2C, 6, Ankush Das, Mu_Vocal_Jr, All
-2C, 2, None, Library _Jr, All
+2C, 2, No teacher, Library _Jr, All
 2C, 9, Kirti Kochar, Maths.Jr, All
-None, 9, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
+2C-2D, 9, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
 2C, 10, Somali Pahari, Dance_Jr, All
 2C, 5, Poonam Gupta, English.Jr, All
 2C, 2, Poonam Gupta, EVS.II, All
 2C, 10, Poonam Gupta, EVS.II, All
 2D, 9, Susmita Gupta, Mu_Vocal_Jr, All
 2D, 2, Somali Pahari, Dance_Jr, All
-2D, 5, None, Library _Jr, All
-None, 2, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
+2D, 5, No teacher, Library _Jr, All
+2C-2D, 2, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
 2D, 4, Naghma Shadabi, Maths.Jr, All
 2E, 5, Somali Pahari, Dance_Jr, All
 2E, 2, Ankush Das, Mu_Vocal_Jr, All
 2E, 5, Sukanya Mukherjee, English.Jr, All
-None, 4, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
-None, 2, Madhumita Bhattacharya, Bengali.2nd.Jr., All
-None, 1, Madhumita Bhattacharya, Bengali.2nd.Jr., All
-None, 6, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
-None, 6, Tanima Naha Ray, Bengali.2nd.Jr., All
-None, 2, Archana Dwivedi, Hindi(2nd).Jr, All
-None, 10, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
-None, 4, Archana Dwivedi, Hindi(2nd).Jr, All
-None, 1, Archana Srivastava, Hindi(2nd).Jr, All
-None, 2, Babita Tiwari, Hindi(2nd).Jr, All
-None, 10, Babita Tiwari, Hindi(2nd).Jr, All
-None, 1, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Jr, All
-None, 2, Babita Tiwari, Hindi(2nd).Jr, All
-None, 9, Ujala Rajak, Hindi(2nd).Jr, All
+2E-2F, 4, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
+2G-2H, 2, Madhumita Bhattacharya, Bengali.2nd.Jr., All
+2I-2J, 1, Madhumita Bhattacharya, Bengali.2nd.Jr., All
+5K-5L, 6, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
+5A-5B, 6, Tanima Naha Ray, Bengali.2nd.Jr., All
+2G-2H, 2, Archana Dwivedi, Hindi(2nd).Jr, All
+3A-3B, 10, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
+3C-3D, 4, Archana Dwivedi, Hindi(2nd).Jr, All
+3G-3H, 1, Archana Srivastava, Hindi(2nd).Jr, All
+3K-3L, 2, Babita Tiwari, Hindi(2nd).Jr, All
+4E-4F, 10, Babita Tiwari, Hindi(2nd).Jr, All
+4K-4L, 1, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Jr, All
+5G-5H, 2, Babita Tiwari, Hindi(2nd).Jr, All
+5K-5L, 9, Ujala Rajak, Hindi(2nd).Jr, All
 2F, 10, Abhirupa Biswas, Maths.Jr, All
 2G, 9, Rajshree Roy, Maths.Jr, All
 2I, 5, Abhirupa Biswas, Maths.Jr, All
@@ -177,16 +176,16 @@ None, 9, Ujala Rajak, Hindi(2nd).Jr, All
 2H, 10, Pallavi Agarwal, EVS.II, All
 2I, 4, Somali Pahari, Dance_Jr, All
 2I, 1, Ankush Das, Mu_Vocal_Jr, All
-2I, 2, None, Library _Jr, All
+2I, 2, No teacher, Library _Jr, All
 2J, 6, Somali Pahari, Dance_Jr, All
 2J, 2, Ankush Das, Mu_Vocal_Jr, All
-2J, 5, None, Library _Jr, All
-2K, 2, None, Library _Jr, All
+2J, 5, No teacher, Library _Jr, All
+2K, 2, No teacher, Library _Jr, All
 2K, 4, Ankush Das, Mu_Vocal_Jr, All
 2K, 4, Somali Pahari, Dance_Jr, All
 3A, 1, Susmita Gupta, Mu_Vocal_Jr, All
 3A, 5, Somali Pahari, Dance_Jr, All
-3A, 1, None, Library _Jr, All
+3A, 1, No teacher, Library _Jr, All
 2L, 5, Somali Pahari, Dance_Jr, All
 3B, 2, Somali Pahari, Dance_Jr, All
 3C, 1, Somali Pahari, Dance_Jr, All
@@ -211,32 +210,32 @@ None, 9, Ujala Rajak, Hindi(2nd).Jr, All
 4F, 2, Payel Roy, Dance_Jr, All
 4G, 10, Gitali Bose, Dance_Jr, All
 4H, 9, Gitali Bose, Dance_Jr, All
-2L, 1, None, Library _Jr, All
-3B, 4, None, Library _Jr, All
+2L, 1, No teacher, Library _Jr, All
+3B, 4, No teacher, Library _Jr, All
 3B, 2, Ankush Das, Mu_Vocal_Jr, All
 3C, 9, Susmita Gupta, Mu_Vocal_Jr, All
-3C, 9, None, Library _Jr, All
+3C, 9, No teacher, Library _Jr, All
 3D, 6, Pallavi Dey, EVS III, All
 3D, 2, Ananya Ganguly, Mu_Vocal_Jr, All
-3D, 5, None, Library _Jr, All
-3E, 1, None, Library _Jr, All
+3D, 5, No teacher, Library _Jr, All
+3E, 1, No teacher, Library _Jr, All
 3E, 4, Susmita Gupta, Mu_Vocal_Jr, All
-3F, 9, None, Library _Jr, All
+3F, 9, No teacher, Library _Jr, All
 3F, 5, Ankush Das, Mu_Vocal_Jr, All
-3G, 2, None, Library _Jr, All
+3G, 2, No teacher, Library _Jr, All
 4L, 5, Susmita Gupta, Mu_Vocal_Jr, All
 4I, 4, Susmita Gupta, Mu_Vocal_Jr, All
 4I, 5, Preeti Singh, EVS.Sc.IV, All
 3H, 1, Ankush Das, Mu_Vocal_Jr, All
-3H, 4, None, Library _Jr, All
+3H, 4, No teacher, Library _Jr, All
 3J, 9, Ankush Das, Mu_Vocal_Jr, All
-3J, 6, None, Library _Jr, All
+3J, 6, No teacher, Library _Jr, All
 3J, 9, Preeti Singh, EVS III, All
 3K, 5, Ankush Das, Mu_Vocal_Jr, All
-3K, 1, None, Library _Jr, All
+3K, 1, No teacher, Library _Jr, All
 3L, 6, Mahua D'Rozario, EVS III, All
 3L, 6, Susmita Gupta, Mu_Vocal_Jr, All
-3L, 2, None, Library _Jr, All
+3L, 2, No teacher, Library _Jr, All
 4A, 6, Susmita Gupta, Mu_Vocal_Jr, All
 4B, 4, Ananya Ganguly, Mu_Vocal_Jr, All
 4C, 10, Ankush Das, Mu_Vocal_Jr, All
@@ -250,7 +249,7 @@ None, 9, Ujala Rajak, Hindi(2nd).Jr, All
 3A, 5, Dipannita Mukherjee, EVS III, All
 3A, 1, Dipannita Mukherjee, EVS III, All
 3I, 2, Susmita Gupta, Mu_Vocal_Jr, All
-3I, 6, None, Library _Jr, All
+3I, 6, No teacher, Library _Jr, All
 5A, 2, Mahua D'Rozario, EVS_SST.V, All
 5A, 6, Gitali Bose, Dance_Jr, All
 5A, 5, Ananya Ganguly, Mu_Vocal_Jr, All
@@ -277,17 +276,17 @@ None, 9, Ujala Rajak, Hindi(2nd).Jr, All
 5K, 2, Gitali Bose, Dance_Jr, All
 5L, 6, Ankush Das, Mu_Vocal_Jr, All
 5L, 2, Gitali Bose, Dance_Jr, All
-None, 2, Sangeeta_Bengali, Bengali.2nd.Sr, All
-6A, 9, None, Comp.Lab_Sr, All
-None, 11, Neetu Laroiya, French, All
+6A-6B, 2, Sangeeta_Bengali, Bengali.2nd.Sr, All
+6A, 9, No teacher, Comp.Lab_Sr, All
+6A-6B-6C, 11, Neetu Laroiya, French, All
 6A, 10, Maushumi Rudra, Geography, All
 6A, 11, Varsha Dhar, Hindi(2nd).Sr, All
-None, 1, Archana Dwivedi, Hindi(3rd), All
+6A-6B-6C, 1, Archana Dwivedi, Hindi(3rd), All
 6A, 4, Manisha Khanna, Hist.&Civics, All
 6A, 5, Dola Pal, Physics, All
 6A, 2, Dola Pal, Physics, Even
 6B, 11, Swapna Mitra, Maths.Sr, All
-6B, 5, None, Comp.Lab_Sr, All
+6B, 5, No teacher, Comp.Lab_Sr, All
 6A, 1, Dola Pal, Phy Lab smart, Odd
 6B, 1, Somalii Jana, Chemistry, All
 6B, 10, Sulagna Sen Roy, English.Sr, All
@@ -298,19 +297,19 @@ None, 1, Archana Dwivedi, Hindi(3rd), All
 6B, 1, Nehal Shah, Biology, Even
 6C, 9, Anindita D.Roy, Biology, All
 6C, 9, Anindita D.Roy, Biology, Even
-6C, 4, None, Comp.Lab_Sr, All
+6C, 4, No teacher, Comp.Lab_Sr, All
 6C, 11, Senjuti Chakrabarty, English.Sr, All
 6C, 6, Nitu Singh, Hindi(2nd).Sr, All
 6C, 6, Paromita Mukherjee, Hist.&Civics, All
 6C, 6, Paromita Mukherjee, Hist.&Civics, Even
-None, 2, Payel Roy, Dance.Sr, All
-None, 5, Payel Roy, Dance.Sr, All
-None, 11, Ananya Ganguly, Mu.Voc.Sr, All
-None, 2, Ananya Ganguly, Mu.Voc.Sr, All
-None, 6, Ananya Ganguly, Mu.Voc.Sr, All
-None, 9, Ananya Ganguly, Mu.Voc.Sr, All
-None, 4, Ananya Ganguly, Mu.Voc.Sr, All
-6D, 9, None, Comp.Lab_Sr, All
+7A-7B-7C-7D, 2, Payel Roy, Dance.Sr, All
+8A-8B-8C-8D, 5, Payel Roy, Dance.Sr, All
+6E-6F-6G-6H, 11, Ananya Ganguly, Mu.Voc.Sr, All
+6I-6J-6K-6L, 2, Ananya Ganguly, Mu.Voc.Sr, All
+7A-7B-7C-7D, 6, Ananya Ganguly, Mu.Voc.Sr, All
+7I-7J-7K-7L, 9, Ananya Ganguly, Mu.Voc.Sr, All
+8I-8J-8K-8L, 4, Ananya Ganguly, Mu.Voc.Sr, All
+6D, 9, No teacher, Comp.Lab_Sr, All
 6D, 1, Sutapa Sen, English.Sr, All
 6D, 10, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Sr, All
 10G, 2, Arundhati Bose, English.Sr, All
@@ -345,21 +344,21 @@ None, 4, Ananya Ganguly, Mu.Voc.Sr, All
 7C, 10, Pallavi Dey, Geography, All
 7G, 5, Srijan Biswas, Geography, All
 7I, 11, Maushumi Rudra, Geography, Odd
-None, 5, Kingshuk Bhattacharya, Art_Sr, All
-None, 9, Tamal Bhattacharya, Art_Sr, All
-None, 9, Kingshuk Bhattacharya, Art_Sr, All
-6E, 5, None, Comp.Lab_Sr, All
+8A-8B-8C-8D, 5, Kingshuk Bhattacharya, Art_Sr, All
+9A-9B-9C-9D, 9, Tamal Bhattacharya, Art_Sr, All
+7I-7J-7K-7L, 9, Kingshuk Bhattacharya, Art_Sr, All
+6E, 5, No teacher, Comp.Lab_Sr, All
 6E, 11, Anita Singh, Hindi(2nd).Sr, All
 6E, 6, Angana Chatterjee, Hist.&Civics, All
 6E, 2, Angana Chatterjee, Hist.&Civics, Even
 6F, 1, Titas Chandra, Physics, All
 6F, 2, Shagufta Jain, Maths.Sr, All
-6F, 5, None, Comp.Lab_Sr, All
+6F, 5, No teacher, Comp.Lab_Sr, All
 6F, 5, Titas Chandra, Physics, Even
-6G, 1, None, Comp.Lab_Sr, All
+6G, 1, No teacher, Comp.Lab_Sr, All
 6G, 4, Angana Chatterjee, Hist.&Civics, Even
 6G, 6, Subhajit Ganguly, Bio Lab.Smart, Even
-None, 10, Parama Bhowmik.Beng, Bengali.2nd.Sr, All
+6G-6H, 10, Parama Bhowmik.Beng, Bengali.2nd.Sr, All
 6H, 1, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Sr, All
 6I, 10, Varsha Dhar, Hindi(2nd).Sr, All
 7D, 4, Ujala Rajak, Hindi(2nd).Sr, All
@@ -388,13 +387,13 @@ None, 10, Parama Bhowmik.Beng, Bengali.2nd.Sr, All
 8G, 6, Namrata Mourya, Hindi(2nd).Sr, All
 8H, 9, Amita Thakur, Hindi(2nd).Sr, All
 8I, 9, Namrata Mourya, Hindi(2nd).Sr, All
-None, 10, Madhurima Sadhukhan_Beng, Bengali.2nd.Sr, All
-None, 11, Tanima Naha Ray, Bengali.2nd.Sr, All
-None, 6, Samir Bhatta_Ben, Bengali.2nd.Sr, All
-None, 11, Maushmi Pandey, Bengali.2nd.Sr, All
-None, 9, Purba Mukherjee, Bengali.2nd.Sr, All
-None, 5, Ruma Bhattacharya, Bengali.2nd.Sr, All
-None, 11, Maushmi Pandey, Bengali.2nd.Sr, All
+7C-7D, 10, Madhurima Sadhukhan_Beng, Bengali.2nd.Sr, All
+7E-7F, 11, Tanima Naha Ray, Bengali.2nd.Sr, All
+7G-7H, 6, Samir Bhatta_Ben, Bengali.2nd.Sr, All
+8A-8B, 11, Maushmi Pandey, Bengali.2nd.Sr, All
+8C-8D-8E, 9, Purba Mukherjee, Bengali.2nd.Sr, All
+9A-9B, 5, Ruma Bhattacharya, Bengali.2nd.Sr, All
+9C-9D, 11, Maushmi Pandey, Bengali.2nd.Sr, All
 6G, 6, Kamini Singhal, Maths.Sr, All
 6L, 11, Reena Jalan, Maths.Sr, All
 7A, 6, Shagufta Jain, Maths.Sr, All
@@ -405,30 +404,30 @@ None, 11, Maushmi Pandey, Bengali.2nd.Sr, All
 8B, 4, Renuka Jhingon, Maths.Sr, All
 8C, 1, Madhusmita Panda, Maths.Sr, All
 8F, 1, Sanjukta Choudhury.New, Maths.Sr, All
-None, 11, Somali Pahari, Dance.Sr, All
+6E-6F-6G-6H, 11, Somali Pahari, Dance.Sr, All
 6H, 1, Somalii Jana, Chemistry, Even
-6H, 9, None, Comp.Lab_Sr, All
-7C, 1, None, Comp.Lab_Sr, All
-7D, 9, None, Comp.Lab_Sr, All
-8I, 5, None, Comp.Lab_Sr, All
-8H, 2, None, Comp.Lab_Sr, All
-8G, 11, None, Comp.Lab_Sr, All
-8F, 5, None, Comp.Lab_Sr, All
-8E, 6, None, Comp.Lab_Sr, All
-8D, 2, None, Comp.Lab_Sr, All
-8C, 1, None, Comp.Lab_Sr, All
-8B, 11, None, Comp.Lab_Sr, All
-8A, 5, None, Comp.Lab_Sr, All
-7F, 4, None, Comp.Lab_Sr, All
-7G, 1, None, Comp.Lab_Sr, All
-7H, 9, None, Comp.Lab_Sr, All
-7I, 6, None, Comp.Lab_Sr, All
-7J, 5, None, Comp.Lab_Sr, All
-7K, 10, None, Comp.Lab_Sr, All
-7B, 6, None, Comp.Lab_Sr, All
-6K, 11, None, Comp.Lab_Sr, All
-6I, 1, None, Comp.Lab_Sr, All
-6J, 6, None, Comp.Lab_Sr, All
+6H, 9, No teacher, Comp.Lab_Sr, All
+7C, 1, No teacher, Comp.Lab_Sr, All
+7D, 9, No teacher, Comp.Lab_Sr, All
+8I, 5, No teacher, Comp.Lab_Sr, All
+8H, 2, No teacher, Comp.Lab_Sr, All
+8G, 11, No teacher, Comp.Lab_Sr, All
+8F, 5, No teacher, Comp.Lab_Sr, All
+8E, 6, No teacher, Comp.Lab_Sr, All
+8D, 2, No teacher, Comp.Lab_Sr, All
+8C, 1, No teacher, Comp.Lab_Sr, All
+8B, 11, No teacher, Comp.Lab_Sr, All
+8A, 5, No teacher, Comp.Lab_Sr, All
+7F, 4, No teacher, Comp.Lab_Sr, All
+7G, 1, No teacher, Comp.Lab_Sr, All
+7H, 9, No teacher, Comp.Lab_Sr, All
+7I, 6, No teacher, Comp.Lab_Sr, All
+7J, 5, No teacher, Comp.Lab_Sr, All
+7K, 10, No teacher, Comp.Lab_Sr, All
+7B, 6, No teacher, Comp.Lab_Sr, All
+6K, 11, No teacher, Comp.Lab_Sr, All
+6I, 1, No teacher, Comp.Lab_Sr, All
+6J, 6, No teacher, Comp.Lab_Sr, All
 6I, 4, Anindita D.Roy, Biology, All
 6I, 1, Anindita D.Roy, Biology, Even
 6I, 6, Anindita D.Roy, Bio Lab.Smart, Even
@@ -454,7 +453,7 @@ None, 11, Somali Pahari, Dance.Sr, All
 7F, 5, Soumya Mitra, Biology, All
 7F, 2, Jonaki Mukherjee, Hist.&Civics, All
 7G, 9, Paromita Mukherjee, Hist.&Civics, All
-None, 11, Payel Roy, Dance.Sr, All
+7I-7J-7K-7L, 11, Payel Roy, Dance.Sr, All
 7J, 1, Titas Chandra, Physics, All
 7K, 6, Anindita D.Roy, Biology, All
 7K, 6, Anindita D.Roy, Biology, Even
@@ -490,11 +489,11 @@ None, 11, Payel Roy, Dance.Sr, All
 8L, 4, Tapas Pattnailk, Physics, Odd
 8L, 6, Tapas Pattnailk, Physics, All
 9A, 6, Tonoy Dey, Chemistry, All
-9A, 1, None, Comp.Lab_Sr, Odd
+9A, 1, No teacher, Comp.Lab_Sr, Odd
 9A, 2, Arundhati Mukherjee, Maths.Sr, All
 9A, 10, Shantanu Roy, Physics, All
 9B, 10, Sandhya Ray, Biology, All
-9B, 10, None, Computer_Sr, Odd
+9B, 10, No teacher, Computer_Sr, Odd
 9B, 1, Surita Chakraborty, Eco_IX_ X, All
 9B, 9, Aditi Dutta Chatterjee, Hist_Civ_9_10, All
 9B, 4, Atanu Dutta, Maths.Sr, All
@@ -503,9 +502,9 @@ None, 11, Payel Roy, Dance.Sr, All
 9C, 5, Tapas Pattnailk, Physics, All
 9D, 5, Rajkumar Karjee.Phy, Physics, All
 9E, 6, Soumya Mitra, Biology, All
-None, 5, Payel Roy, Dance.Sr, All
+9E-9F-9G-9H, 5, Payel Roy, Dance.Sr, All
 9E, 1, Jonaki Mukherjee, Hist_Civ_9_10, All
-None, 5, Ananya Ganguly, Mu.Voc.Sr, All
+9E-9F-9G-9H, 5, Ananya Ganguly, Mu.Voc.Sr, All
 9F, 4, Roma Sarkar, Eco_IX_ X, All
 9F, 4, Amitava Bhattacharya, Physics, All
 9G, 4, Nehal Shah, Biology, All
@@ -516,7 +515,7 @@ None, 5, Ananya Ganguly, Mu.Voc.Sr, All
 9J, 2, Nilanjana Chakraborty, Eco_IX_ X, All
 9J, 4, Renuka Jhingon, Maths.Sr, All
 9J, 2, Sharmila  Bhattacharya, Physics, All
-9L, 6, None, Comp.Lab_Sr, All
+9L, 6, No teacher, Comp.Lab_Sr, All
 9L, 11, Jonaki Mukherjee, Hist_Civ_9_10, All
 9L, 11, Sanjukta Choudhury.New, Maths.Sr, All
 9L, 5, Sharmila  Bhattacharya, Physics, All
@@ -553,129 +552,129 @@ None, 5, Ananya Ganguly, Mu.Voc.Sr, All
 10H, 1, Surita Chakraborty, Geog_9_10, All
 10H, 11, Sreya lahiri, Hist_Civ_9_10, All
 10L, 11, Anindita Khan, Biology, All
-10L, 11, None, Comp.Lab_Sr, Even
-10L, 10, None, Computer_Sr, All
+10L, 11, No teacher, Comp.Lab_Sr, Even
+10L, 10, No teacher, Computer_Sr, All
 10L, 10, Kumar Kislay, Hindi(2nd).Sr, All
 10L, 2, Aditi Dutta Chatterjee, Hist_Civ_9_10, All
 10L, 9, Arundhati Mukherjee, Maths.Sr, All
-None, 5, Ruma Bhattacharya, Bengali.2nd.Sr, All
+10K-10L, 5, Ruma Bhattacharya, Bengali.2nd.Sr, All
 10K, 2, Susmita Roy Choudhary, Chemistry, All
-10K, 1, None, Comp.Lab_Sr, Even
-10K, 5, None, Computer_Sr, All
+10K, 1, No teacher, Comp.Lab_Sr, Even
+10K, 5, No teacher, Computer_Sr, All
 10K, 1, Ajay Bhattacharjee, Eco_IX_ X, All
 10K, 11, Ajay Bhattacharjee, Geog_9_10, All
-10K, 1, None, Library_Sr, Even
+10K, 1, No teacher, Library_Sr, Even
 10J, 10, Indrani Panda, Biology, All
-10J, 2, None, Comp.Lab_Sr, Odd
-10J, 4, None, Computer_Sr, All
+10J, 2, No teacher, Comp.Lab_Sr, Odd
+10J, 4, No teacher, Computer_Sr, All
 10J, 4, Sudipta Ganguly.Eng, English.Sr, All
 10J, 9, Amita Thakur, Hindi(2nd).Sr, All
-10J, 4, None, Library_Sr, Odd
+10J, 4, No teacher, Library_Sr, Odd
 10I, 11, Sandhya Ray, Biology, All
 10I, 5, Tonoy Dey, Chemistry, All
-10I, 6, None, Comp.Lab_Sr, Odd
-10I, 2, None, Computer_Sr, All
+10I, 6, No teacher, Comp.Lab_Sr, Odd
+10I, 2, No teacher, Computer_Sr, All
 10I, 1, Anindita Chatterjee, Hist_Civ_9_10, All
-10I, 4, None, Library_Sr, Odd
+10I, 4, No teacher, Library_Sr, Odd
 10H, 4, Susmita Roy Choudhary, Chemistry, All
-10H, 5, None, Comp.Lab_Sr, Even
-10H, 1, None, Computer_Sr, All
+10H, 5, No teacher, Comp.Lab_Sr, Even
+10H, 1, No teacher, Computer_Sr, All
 10H, 4, Surita Chakraborty, Eco_IX_ X, All
-10H, 9, None, Library_Sr, Odd
-None, 10, Maushmi Pandey, Bengali.2nd.Sr, All
-10G, 1, None, Comp.Lab_Sr, Even
-10G, 4, None, Computer_Sr, All
-10F, 10, None, Comp.Lab_Sr, Odd
-10F, 2, None, Computer_Sr, All
+10H, 9, No teacher, Library_Sr, Odd
+10I-10J, 10, Maushmi Pandey, Bengali.2nd.Sr, All
+10G, 1, No teacher, Comp.Lab_Sr, Even
+10G, 4, No teacher, Computer_Sr, All
+10F, 10, No teacher, Comp.Lab_Sr, Odd
+10F, 2, No teacher, Computer_Sr, All
 10F, 4, Dablu Barman, Geog_9_10, All
-10E, 5, None, Comp.Lab_Sr, Even
-10E, 11, None, Computer_Sr, All
-10D, 10, None, Comp.Lab_Sr, Odd
-10D, 5, None, Computer_Sr, All
+10E, 5, No teacher, Comp.Lab_Sr, Even
+10E, 11, No teacher, Computer_Sr, All
+10D, 10, No teacher, Comp.Lab_Sr, Odd
+10D, 5, No teacher, Computer_Sr, All
 10D, 5, Ashok singh.Hindi, Hindi(2nd).Sr, All
-10C, 9, None, Comp.Lab_Sr, Odd
-10C, 5, None, Computer_Sr, All
-10C, 1, None, Library_Sr, Even
-10D, 10, None, Library_Sr, Even
-10E, 4, None, Library_Sr, Even
-10G, 1, None, Library_Sr, Odd
-10L, 4, None, Library_Sr, Even
-10F, 11, None, Library_Sr, Odd
-None, 10, Ruma Bhattacharya, Bengali.2nd.Sr, All
-10B, 10, None, Comp.Lab_Sr, Even
-10B, 4, None, Library_Sr, Odd
-10A, 6, None, Comp.Lab_Sr, Odd
-10A, 1, None, Library_Sr, Odd
-9K, 2, None, Comp.Lab_Sr, All
-9K, 6, None, Library_Sr, Even
-None, 1, Ananya Ganguly, Mu.Voc.Sr, All
-9J, 5, None, Comp.Lab_Sr, All
-None, 1, Nilanjan Mukherjee, Guitar, All
+10C, 9, No teacher, Comp.Lab_Sr, Odd
+10C, 5, No teacher, Computer_Sr, All
+10C, 1, No teacher, Library_Sr, Even
+10D, 10, No teacher, Library_Sr, Even
+10E, 4, No teacher, Library_Sr, Even
+10G, 1, No teacher, Library_Sr, Odd
+10L, 4, No teacher, Library_Sr, Even
+10F, 11, No teacher, Library_Sr, Odd
+10B-10D, 10, Ruma Bhattacharya, Bengali.2nd.Sr, All
+10B, 10, No teacher, Comp.Lab_Sr, Even
+10B, 4, No teacher, Library_Sr, Odd
+10A, 6, No teacher, Comp.Lab_Sr, Odd
+10A, 1, No teacher, Library_Sr, Odd
+9K, 2, No teacher, Comp.Lab_Sr, All
+9K, 6, No teacher, Library_Sr, Even
+9I-9J-9K-9L, 1, Ananya Ganguly, Mu.Voc.Sr, All
+9J, 5, No teacher, Comp.Lab_Sr, All
+9I-9J-9K-9L, 1, Nilanjan Mukherjee, Guitar, All
 9J, 10, Ashok singh.Hindi, Hindi(2nd).Sr, All
-9J, 1, None, Library_Sr, Odd
-9I, 6, None, Comp.Lab_Sr, All
-9H, 6, None, Comp.Lab_Sr, All
-None, 5, Sudipto Majumdar, Art_Sr, All
-9G, 9, None, Comp.Lab_Sr, All
-None, 6, Samir Bhatta_Ben, Bengali.2nd.Sr, All
-9E, 9, None, Comp.Lab_Sr, All
-9E, 1, None, Library_Sr, Odd
-9D, 2, None, Comp.Lab_Sr, All
-9D, 6, None, Computer_Sr, Odd
-None, 9, Nilanjan Mukherjee, Guitar, All
-None, 9, Ananya Ganguly, Mu.Voc.Sr, All
-None, 9, Ratnadeep Basu_Piano, Piano, All
-9C, 5, None, Comp.Lab_Sr, All
-None, 9, Gitali Bose, Dance.Sr, All
-9B, 4, None, Comp.Lab_Sr, All
-9B, 11, None, Library_Sr, Even
-9C, 9, None, Library_Sr, Even
-9A, 4, None, Comp.Lab_Sr, All
-9A, 11, None, Library_Sr, Odd
-None, 4, Kingshuk Bhattacharya, Art_Sr, All
-None, 6, Samir Bhatta_Ben, Bengali(3rd), All
-8L, 5, None, Comp.Lab_Sr, All
-8K, 11, None, Comp.Lab_Sr, All
-None, 11, Neetu Laroiya, French, All
-None, 6, Joyoti Mallick_german, German, All
-None, 6, Manoj K Sharma, Hindi(3rd), All
+9J, 1, No teacher, Library_Sr, Odd
+9I, 6, No teacher, Comp.Lab_Sr, All
+9H, 6, No teacher, Comp.Lab_Sr, All
+9E-9F-9G-9H, 5, Sudipto Majumdar, Art_Sr, All
+9G, 9, No teacher, Comp.Lab_Sr, All
+9E-9F, 6, Samir Bhatta_Ben, Bengali.2nd.Sr, All
+9E, 9, No teacher, Comp.Lab_Sr, All
+9E, 1, No teacher, Library_Sr, Odd
+9D, 2, No teacher, Comp.Lab_Sr, All
+9D, 6, No teacher, Computer_Sr, Odd
+9A-9B-9C-9D, 9, Nilanjan Mukherjee, Guitar, All
+9A-9B-9C-9D, 9, Ananya Ganguly, Mu.Voc.Sr, All
+9A-9B-9C-9D, 9, Ratnadeep Basu_Piano, Piano, All
+9C, 5, No teacher, Comp.Lab_Sr, All
+9A-9B-9C-9D, 9, Gitali Bose, Dance.Sr, All
+9B, 4, No teacher, Comp.Lab_Sr, All
+9B, 11, No teacher, Library_Sr, Even
+9C, 9, No teacher, Library_Sr, Even
+9A, 4, No teacher, Comp.Lab_Sr, All
+9A, 11, No teacher, Library_Sr, Odd
+8I-8J-8K-8L, 4, Kingshuk Bhattacharya, Art_Sr, All
+8I-8J-8K-8L, 6, Samir Bhatta_Ben, Bengali(3rd), All
+8L, 5, No teacher, Comp.Lab_Sr, All
+8K, 11, No teacher, Comp.Lab_Sr, All
+8I-8J-8K-8L, 11, Neetu Laroiya, French, All
+8I-8J-8K-8L, 6, Joyoti Mallick_german, German, All
+8I-8J-8K-8L, 6, Manoj K Sharma, Hindi(3rd), All
 8J, 2, Soumya Mitra, Biology, All
-8J, 10, None, Comp.Lab_Sr, All
-None, 6, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 2, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 4, Maushmi Pandey, Bengali.2nd.Sr, All
-7L, 4, None, Comp.Lab_Sr, All
-None, 9, Neetu Laroiya, French, All
-None, 9, Joyoti Mallick_german, German, All
-None, 9, Nilanjan Mukherjee, Guitar, All
-None, 9, Ratnadeep Basu_Piano, Piano, All
-None, 9, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 11, Tilak Chatterjee, Violin, All
-None, 1, Archana Dwivedi, Hindi(3rd), All
-None, 1, Samir Bhatta_Ben, Bengali(3rd), All
+8J, 10, No teacher, Comp.Lab_Sr, All
+8I-8J-8K-8L, 6, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+8A-8B-8C-8D, 2, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+7K-7L, 4, Maushmi Pandey, Bengali.2nd.Sr, All
+7L, 4, No teacher, Comp.Lab_Sr, All
+7I-7J-7K-7L, 9, Neetu Laroiya, French, All
+7I-7J-7K-7L, 9, Joyoti Mallick_german, German, All
+7I-7J-7K-7L, 9, Nilanjan Mukherjee, Guitar, All
+7I-7J-7K-7L, 9, Ratnadeep Basu_Piano, Piano, All
+7I-7J-7K-7L, 9, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+7E-7F-7G-7H, 11, Tilak Chatterjee, Violin, All
+7E-7F-7G-7H, 1, Archana Dwivedi, Hindi(3rd), All
+7E-7F-7G-7H, 1, Samir Bhatta_Ben, Bengali(3rd), All
 7E, 9, Dola Pal, Biology, All
-7E, 6, None, Comp.Lab_Sr, All
-None, 1, Neetu Laroiya, French, All
-None, 1, Joyoti Mallick_german, German, All
-None, 1, Manoj K Sharma, Sanskrit(3rd), All
-7A, 10, None, Comp.Lab_Sr, All
-None, 6, Joyoti Mallick_german, German, All
-None, 6, Archana Srivastava, Hindi(3rd), All
-None, 6, Ratnadeep Basu_Piano, Piano, All
-None, 2, Tilak Chatterjee, Violin, All
-None, 6, Purba Mukherjee, Bengali.2nd.Sr, All
-None, 11, Neetu Laroiya, French, All
-None, 1, Madhurima Sadhukhan_Beng, Bengali.2nd.Sr, All
-6L, 1, None, Comp.Lab_Sr, All
-None, 5, Neetu Laroiya, French, All
-None, 4, Joyoti Mallick_german, German, All
-None, 4, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 10, Debojyoti Dhara, Art_Sr, All
-None, 6, Tamal Bhattacharya, Art_Sr, All
-None, 5, Kingshuk Bhattacharya, Art_Sr, All
-None, 2, Sudipto Majumdar, Art_Sr, All
-None, 10, Samir Bhatta_Ben, Bengali.2nd.Sr, All
-None, 2, Ruma Bhattacharya, Bengali.2nd.Sr, All
+7E, 6, No teacher, Comp.Lab_Sr, All
+7E-7F-7G-7H, 1, Neetu Laroiya, French, All
+7E-7F-7G-7H, 1, Joyoti Mallick_german, German, All
+7E-7F-7G-7H, 1, Manoj K Sharma, Sanskrit(3rd), All
+7A, 10, No teacher, Comp.Lab_Sr, All
+7A-7B-7C-7D, 6, Joyoti Mallick_german, German, All
+7A-7B-7C-7D, 6, Archana Srivastava, Hindi(3rd), All
+7A-7B-7C-7D, 6, Ratnadeep Basu_Piano, Piano, All
+7A-7B-7C-7D, 2, Tilak Chatterjee, Violin, All
+7A-7B, 6, Purba Mukherjee, Bengali.2nd.Sr, All
+7A-7B-7C-7D, 11, Neetu Laroiya, French, All
+6K-6L, 1, Madhurima Sadhukhan_Beng, Bengali.2nd.Sr, All
+6L, 1, No teacher, Comp.Lab_Sr, All
+6J-6K-6L, 5, Neetu Laroiya, French, All
+6J-6K-6L, 4, Joyoti Mallick_german, German, All
+6J-6K-6L, 4, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+6A-6B-6C-6D, 10, Debojyoti Dhara, Art_Sr, All
+6E-6F-6G-6H, 6, Tamal Bhattacharya, Art_Sr, All
+6I-6J-6K-6L, 5, Kingshuk Bhattacharya, Art_Sr, All
+7A-7B-7C-7D, 2, Sudipto Majumdar, Art_Sr, All
+8F-8G, 10, Samir Bhatta_Ben, Bengali.2nd.Sr, All
+8K-8L, 2, Ruma Bhattacharya, Bengali.2nd.Sr, All
 8C, 10, Nehal Shah, Biology, All
 10A, 4, Anindita Khan, Biology, Odd
 10A, 1, Mitali Sengupta, Physics, Even
@@ -754,18 +753,18 @@ None, 2, Ruma Bhattacharya, Bengali.2nd.Sr, All
 6B, 10, Nehal Shah, Bio Lab.Smart, Odd
 6A, 1, Maushumi Rudra, Geography, Even
 6A, 4, Anindita D.Roy, Bio Lab.Smart, Odd
-None, 6, New_Moumita Saha_ADH, Bengali(3rd), All
-None, 10, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
-None, 9, Samir Bhatta_Ben, Bengali.2nd.Sr, All
-None, 10, Nandini ch. Bedagna, Bengali.2nd.Jr., All
-None, 5, Nandini ch. Bedagna, Bengali.2nd.Sr, All
-None, 11, Nandini ch. Bedagna, Bengali.2nd.Sr, All
+7A-7B-7C-7D, 6, New_Moumita Saha_ADH, Bengali(3rd), All
+2A-2B, 10, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
+10E-10F, 9, Samir Bhatta_Ben, Bengali.2nd.Sr, All
+5G-5H, 10, Nandini ch. Bedagna, Bengali.2nd.Jr., All
+8H-8I-8J, 5, Nandini ch. Bedagna, Bengali.2nd.Sr, All
+7I-7J, 11, Nandini ch. Bedagna, Bengali.2nd.Sr, All
 3G, 6, Susmita Gupta, Mu_Vocal_Jr, All
 4D, 9, Susmita Gupta, Mu_Vocal_Jr, All
 4K, 10, Susmita Gupta, Mu_Vocal_Jr, All
 5F, 2, Susmita Gupta, Mu_Vocal_Jr, All
 5K, 9, Susmita Gupta, Mu_Vocal_Jr, All
-None, 11, Susmita Gupta, Mu.Voc.Sr, All
+7E-7F-7G-7H, 11, Susmita Gupta, Mu.Voc.Sr, All
 7I, 4, New_Ruth English, English.Sr, All
 6K, 10, New_Ruth English, English.Sr, All
 8A, 4, Anindita Khan, Biology, All
@@ -1038,8 +1037,8 @@ None, 11, Susmita Gupta, Mu.Voc.Sr, All
 7F, 4, Srijan Biswas, Geography, All
 9K, 11, Ashmita Bhattacharjee, Eco_IX_ X, All
 9K, 5, Ashmita Bhattacharjee, Geog_9_10, All
-None, 1, Ruma Bhattacharya, Bengali.2nd.Sr, All
-None, 4, Maushmi Pandey, Bengali.2nd.Sr, All
+9I-9J, 1, Ruma Bhattacharya, Bengali.2nd.Sr, All
+9K-9L, 4, Maushmi Pandey, Bengali.2nd.Sr, All
 10I, 5, Crystal Fang, English.Sr, All
 8E, 1, Amitava Bhattacharya, Maths.Sr, All
 5J, 5, Shagufta Jain, Maths.Jr, All
@@ -1102,7 +1101,7 @@ None, 4, Maushmi Pandey, Bengali.2nd.Sr, All
 12J(CS), 8, Milton Saha, Maths.12, All
 12I(CS), 1, Hafizul Mondal, Maths.12, All
 12A (Bio), 1, Milton Saha, Maths.12, All
-None, 11, Aftab Hussain, Guitar, All
+7E-7F-7G-7H, 11, Aftab Hussain, Guitar, All
 12A (Bio), 3, Nilanjana Saha, Biology Lab Sr +2, Odd
 12P ECO, 11, Arindam Basu, Eco.12, All
 12M (CS), 10, Ranjana Thirani, Maths.12, All
@@ -1110,7 +1109,7 @@ None, 11, Aftab Hussain, Guitar, All
 12S.-Sp.CS.PE, 11, Ratnadeep Choudhury_Physics_sp cl, Phy.Sp.+2, All
 10J, 9, Sreya lahiri, Hist_Civ_9_10, All
 12P ECO, 1, Subrata Mitra, Chemistry.12, All
-None, 5, Susmita Gupta, Mu.Voc.Sr, All
+6A-6B-6C-6D, 5, Susmita Gupta, Mu.Voc.Sr, All
 6A, 4, Manisha Khanna, Hist.&Civics, Even
 10K, 1, Susmita Roy Choudhary, Chemistry, Odd
 3C, 10, Kirti Kochar, EVS III, All
@@ -1122,16 +1121,16 @@ None, 5, Susmita Gupta, Mu.Voc.Sr, All
 2K, 10, Amrita Chakraborty, EVS.II, All
 2K, 6, Amrita Chakraborty, EVS.II, All
 10D, 11, Arpita Chakraborty.Eng, English.Sr, All
-None, 11, Jayanto Chakra., Piano, All
-None, 6, Nilanjan Mukherjee, Guitar, All
-None, 2, Aftab Hussain, Guitar, All
-None, 4, Aftab Hussain, Guitar, All
-None, 5, Aftab Hussain, Guitar, All
-None, 10, Jayanto Chakra., Piano, All
-None, 6, Jayanto Chakra., Piano, All
-None, 2, Jayanto Chakra., Piano, All
-None, 11, Tamal Bhattacharya, Art_Sr, All
-None, 1, Kingshuk Bhattacharya, Art_Sr, All
+7E-7F-7G-7H, 11, Jayanto Chakra., Piano, All
+7A-7B-7C-7D, 6, Nilanjan Mukherjee, Guitar, All
+6I-6J-6K-6L, 2, Aftab Hussain, Guitar, All
+8I-8J-8K-8L, 4, Aftab Hussain, Guitar, All
+9E-9F-9G-9H, 5, Aftab Hussain, Guitar, All
+8I-8J-8K-8L, 10, Jayanto Chakra., Piano, All
+8A-8B-8C-8D, 6, Jayanto Chakra., Piano, All
+6I-6J-6K-6L, 2, Jayanto Chakra., Piano, All
+7E-7F-7G-7H, 11, Tamal Bhattacharya, Art_Sr, All
+9I-9J-9K-9L, 1, Kingshuk Bhattacharya, Art_Sr, All
 6D, 6, Dipannita Mukherjee, Biology, Odd
 6D, 10, Dipannita Mukherjee, Biology, All
 6D, 6, Dipannita Mukherjee, Bio Lab.Smart, Even
@@ -1172,7 +1171,7 @@ None, 1, Kingshuk Bhattacharya, Art_Sr, All
 10D, 2, Mitali Sengupta, Physics, All
 10D, 10, Mitali Sengupta, Physics, Odd
 10I, 5, Laily Mitra, Maths.Sr, All
-None, 9, Archana Srivastava, Hindi(2nd).Jr, All
+3I-3J, 9, Archana Srivastava, Hindi(2nd).Jr, All
 4A, 5, Ujala Rajak, Hindi(2nd).Jr, All
 4C, 9, Archana Srivastava, Hindi(2nd).Jr, All
 5A, 6, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Jr, All
@@ -1186,17 +1185,17 @@ None, 9, Archana Srivastava, Hindi(2nd).Jr, All
 2L, 1, Debolina Chakraborty.Eng, EVS.II, All
 2L, 6, Debolina Chakraborty.Eng, EVS.II, All
 2K, 9, Sanjana Singh, Hindi(2nd).Jr, All
-None, 2, Sanjana Singh, Hindi(3rd), All
+6G-6H-6I, 2, Sanjana Singh, Hindi(3rd), All
 7F, 5, Anita Singh, Hindi(2nd).Sr, All
 7E, 11, Ashok singh.Hindi, Hindi(2nd).Sr, All
 3D, 4, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
 3I, 10, Madhumita Bhattacharya, Bengali.2nd.Jr., All
-None, 1, Madhumita Bhattacharya, Bengali.2nd.Jr., All
-None, 9, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
+3K-3L, 1, Madhumita Bhattacharya, Bengali.2nd.Jr., All
+4C-4D, 9, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
 4I, 6, Sangeeta_Bengali, Bengali.2nd.Jr., All
-None, 6, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
+4K-4L, 6, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
 4J, 1, Bratati Baidya, Bengali.2nd.Jr., All
-None, 1, Tanima Naha Ray, Bengali.2nd.Jr., All
+4A-4E, 1, Tanima Naha Ray, Bengali.2nd.Jr., All
 2I, 1, Shikha Mehrotra_Hindi, Hindi(2nd).Jr, All
 2J, 10, Archana Srivastava, Hindi(2nd).Jr, All
 3K, 4, Amrita Chakraborty, English.Jr, All
@@ -1249,11 +1248,11 @@ None, 1, Tanima Naha Ray, Bengali.2nd.Jr., All
 3C, 9, Pallavi Agarwal, Value Education, All
 3D, 9, Pallavi Dey, Value Education, All
 3E, 9, Somrita Mukherjee, Value Education, All
-None, 11, Parama Bhowmik.Beng, Bengali(3rd), All
-None, 11, Nandini ch. Bedagna, Bengali.2nd.Sr, All
-None, 4, Madhumita Bhattacharya, Bengali(3rd), All
-None, 2, Nandini ch. Bedagna, Bengali(3rd), All
-None, 5, Ananya Ganguly, Mu.Voc.Sr, All
+6A-6B-6C, 11, Parama Bhowmik.Beng, Bengali(3rd), All
+6C-6D, 11, Nandini ch. Bedagna, Bengali.2nd.Sr, All
+6D-6E-6F, 4, Madhumita Bhattacharya, Bengali(3rd), All
+6G-6H-6I, 2, Nandini ch. Bedagna, Bengali(3rd), All
+8A-8B-8C-8D, 5, Ananya Ganguly, Mu.Voc.Sr, All
 12A (Bio), 9, Nilanjana Saha, Biology.12, All
 12A (Bio), 2, Nilanjana Saha, Biology.12, Even
 12B (Bio), 7, Ananya Banerjee, Biology.12, All
@@ -1263,49 +1262,49 @@ None, 5, Ananya Ganguly, Mu.Voc.Sr, All
 12D(BIO), 3, Ananya Banerjee, Biology.12, Even
 4B, 5, Parama Bhowmik.Beng, Bengali.2nd.Jr., All
 4G, 5, Nandini ch. Bedagna, Bengali.2nd.Jr., All
-None, 5, Sangeeta_Bengali, Bengali(3rd), All
-None, 10, Purba Mukherjee, Bengali(3rd), All
-2A, 9, None, Library _Jr, All
-2E, 4, None, Library _Jr, All
-2F, 1, None, Library _Jr, All
-2G, 9, None, Library _Jr, All
-2H, 9, None, Library _Jr, All
-11E-Bio.M, 1, None, Library_Sr, Even
-11D - Bio.M, 7, None, Library_Sr, Odd
-11B Bio.M, 9, None, Library_Sr, Odd
-11A Bio.M, 10, None, Library_Sr, Odd
-11F-Bio.M, 1, None, Library_Sr, Odd
-11G BIO PE, 1, None, Library_Sr, Even
-11H-Bio.PE, 9, None, Library_Sr, Odd
-11I-CS, 2, None, Library_Sr, Even
-11J - CS, 7, None, Library_Sr, Odd
-9L, 9, None, Library_Sr, Even
-9I, 5, None, Library_Sr, Even
-9H, 1, None, Library_Sr, Even
-9G, 4, None, Library_Sr, Even
-9F, 4, None, Library_Sr, Odd
-9D, 11, None, Library_Sr, Even
-12B (Bio), 1, None, Library_Sr, Odd
-11K- CS, 10, None, Library_Sr, Odd
-11L -CS, 3, None, Library_Sr, Odd
-11M - CS, 9, None, Library_Sr, Odd
-11N -CS, 10, None, Library_Sr, Odd
-12A (Bio), 10, None, Library_Sr, Odd
-12C (Bio), 3, None, Library_Sr, Even
-12D(BIO), 3, None, Library_Sr, Odd
-12E(Bio), 10, None, Library_Sr, Even
-12N CS, 10, None, Library_Sr, Odd
-12M (CS), 10, None, Library_Sr, Even
-12L (CS), 3, None, Library_Sr, Odd
-12F(Bio/PE), 1, None, Library_Sr, Even
-12G(BIO.PE/Math), 11, None, Library_Sr, Even
-12H(Bio), 9, None, Library_Sr, Even
-12I(CS), 11, None, Library_Sr, Odd
-12J(CS), 3, None, Library_Sr, Odd
-12K (CS), 7, None, Library_Sr, Odd
-12P ECO, 8, None, Library_Sr, All
-11O.CS/PE, 8, None, Library_Sr, All
-11P- ECO/CS, 7, None, Library_Sr, All
+6J-6K-6L, 5, Sangeeta_Bengali, Bengali(3rd), All
+8E-8F-8G-8H, 10, Purba Mukherjee, Bengali(3rd), All
+2A, 9, No teacher, Library _Jr, All
+2E, 4, No teacher, Library _Jr, All
+2F, 1, No teacher, Library _Jr, All
+2G, 9, No teacher, Library _Jr, All
+2H, 9, No teacher, Library _Jr, All
+11E-Bio.M, 1, No teacher, Library_Sr, Even
+11D - Bio.M, 7, No teacher, Library_Sr, Odd
+11B Bio.M, 9, No teacher, Library_Sr, Odd
+11A Bio.M, 10, No teacher, Library_Sr, Odd
+11F-Bio.M, 1, No teacher, Library_Sr, Odd
+11G BIO PE, 1, No teacher, Library_Sr, Even
+11H-Bio.PE, 9, No teacher, Library_Sr, Odd
+11I-CS, 2, No teacher, Library_Sr, Even
+11J - CS, 7, No teacher, Library_Sr, Odd
+9L, 9, No teacher, Library_Sr, Even
+9I, 5, No teacher, Library_Sr, Even
+9H, 1, No teacher, Library_Sr, Even
+9G, 4, No teacher, Library_Sr, Even
+9F, 4, No teacher, Library_Sr, Odd
+9D, 11, No teacher, Library_Sr, Even
+12B (Bio), 1, No teacher, Library_Sr, Odd
+11K- CS, 10, No teacher, Library_Sr, Odd
+11L -CS, 3, No teacher, Library_Sr, Odd
+11M - CS, 9, No teacher, Library_Sr, Odd
+11N -CS, 10, No teacher, Library_Sr, Odd
+12A (Bio), 10, No teacher, Library_Sr, Odd
+12C (Bio), 3, No teacher, Library_Sr, Even
+12D(BIO), 3, No teacher, Library_Sr, Odd
+12E(Bio), 10, No teacher, Library_Sr, Even
+12N CS, 10, No teacher, Library_Sr, Odd
+12M (CS), 10, No teacher, Library_Sr, Even
+12L (CS), 3, No teacher, Library_Sr, Odd
+12F(Bio/PE), 1, No teacher, Library_Sr, Even
+12G(BIO.PE/Math), 11, No teacher, Library_Sr, Even
+12H(Bio), 9, No teacher, Library_Sr, Even
+12I(CS), 11, No teacher, Library_Sr, Odd
+12J(CS), 3, No teacher, Library_Sr, Odd
+12K (CS), 7, No teacher, Library_Sr, Odd
+12P ECO, 8, No teacher, Library_Sr, All
+11O.CS/PE, 8, No teacher, Library_Sr, All
+11P- ECO/CS, 7, No teacher, Library_Sr, All
 12I(CS), 11, Sidhhartha Comp.PGT, Comp.Sc.12, All
 12I(CS), 11, Sidhhartha Comp.PGT, Comp.Lab_Sr, Even
 12L (CS), 2, Deepanjan Das, Physics.12, All
@@ -1367,69 +1366,69 @@ None, 10, Purba Mukherjee, Bengali(3rd), All
 12K (CS), 9, Paromita chakraborty, English.12, All
 12M (CS), 3, New_Sumana Das_PGT, English.12, All
 12P ECO, 10, Paromita chakraborty, English.12, All
-None, 5, Sangeeta_Bengali, Bengali.2nd.Jr., All
+5E-5F, 5, Sangeeta_Bengali, Bengali.2nd.Jr., All
 5D, 10, Anita Singh, Hindi(2nd).Jr, All
 3F, 6, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
 3E, 4, Bratati Baidya, Bengali.2nd.Jr., All
 2H, 2, Pallavi Agarwal, Value Education, All
 2J, 5, New_Nisha Sahal, Value Education, All
 2E, 5, Sukanya Mukherjee, Value Education, All
-None, 10, Gitali Bose, Dance.Sr, All
-None, 2, Gitali Bose, Dance.Sr, All
-None, 10, Gitali Bose, Dance.Sr, All
-None, 4, Payel Roy, Dance.Sr, All
-None, 10, Gitali Bose, Dance.Sr, All
-None, 1, Gitali Bose, Dance.Sr, All
-9F, 6, None, Comp.Lab_Sr, All
-None, 9, None, Games_Jr, All
-None, 2, None, Games_Jr, All
-None, 5, None, Games_Jr, All
-None, 2, None, Games_Jr, All
-None, 6, None, Games_Jr, All
-None, 5, None, Games_Jr, All
-None, 6, None, Games_Jr, All
-None, 2, None, Games_Sr, All
-None, 11, None, Games_Sr, All
-None, 2, None, Games_Sr, All
-None, 10, None, Games_Sr, All
-None, 11, None, Games_Sr, All
-None, 11, None, Games_Sr, All
-None, 4, None, Games_Sr, All
-None, 11, None, Games_Sr, All
-None, 9, None, Games_Sr, All
-None, 10, None, Games_Sr, All
+6A-6B-6C-6D, 10, Gitali Bose, Dance.Sr, All
+6I-6J-6K-6L, 2, Gitali Bose, Dance.Sr, All
+7E-7F-7G-7H, 10, Gitali Bose, Dance.Sr, All
+8E-8F-8G-8H, 4, Payel Roy, Dance.Sr, All
+8I-8J-8K-8L, 10, Gitali Bose, Dance.Sr, All
+9I-9J-9K-9L, 1, Gitali Bose, Dance.Sr, All
+9F, 6, No teacher, Comp.Lab_Sr, All
+2A-2B-2C-2D-2E-2F, 9, No teacher, Games_Jr, All
+2G-2H-2I-2J-2K-2L, 2, No teacher, Games_Jr, All
+3G-3H-3I-3J-3K-3L, 5, No teacher, Games_Jr, All
+4A-4B-4C-4D-4E-4F, 2, No teacher, Games_Jr, All
+4G-4H-4I-4J-4K-4L, 6, No teacher, Games_Jr, All
+5A-5B-5C-5D-5E-5F, 5, No teacher, Games_Jr, All
+5G-5H-5I-5J-5K-5L, 6, No teacher, Games_Jr, All
+7A-7B-7C-7D-7E-7F, 2, No teacher, Games_Sr, All
+7G-7H-7I-7J-7K-7L, 11, No teacher, Games_Sr, All
+6G-6H-6I-6J-6K-6L, 2, No teacher, Games_Sr, All
+10I-10J-10K-10L, 10, No teacher, Games_Sr, All
+10E-10F-10G-10H, 11, No teacher, Games_Sr, All
+10A-10B-10C-10D, 11, No teacher, Games_Sr, All
+9G-9H-9I-9J-9K-9L, 4, No teacher, Games_Sr, All
+9A-9B-9C-9D-9E-9F, 11, No teacher, Games_Sr, All
+8G-8H-8I-8J-8K-8L, 9, No teacher, Games_Sr, All
+8A-8B-8C-8D-8E-8F, 10, No teacher, Games_Sr, All
 12Y ((HUMANITIES.1), 1, Arpita Basu Roy.Pol Sc, Political Sc.+2, All
 12Y ((HUMANITIES.1), 9, Angana Chatterjee, Political Sc.+2, All
 12Y ((HUMANITIES.1), 2, Sujata Manoj, Eng.Hum.+2, All
-None, 6, None, Games_Jr, All
-None, 6, Sudipto Majumdar, Art_Sr, All
-None, 4, Samir Nandi, Tabla, All
-None, 5, Samir Nandi, Tabla, All
-None, 4, Samir Nandi, Tabla, All
-None, 2, Samir Nandi, Tabla, All
-None, 11, Samir Nandi, Tabla, All
-None, 4, Samir Nandi, Tabla, All
-None, 6, Samir Nandi, Tabla, All
-3L, 2, None, Computer_Jr, All
-5B, 9, None, Computer_Jr, All
-5A, 10, None, Computer_Jr, All
-2B, 9, None, Computer_Jr, All
-2D, 5, None, Computer_Jr, All
-2E, 10, None, Computer_Jr, All
-2F, 2, None, Computer_Jr, All
-2G, 9, None, Computer_Jr, All
-2I, 6, None, Computer_Jr, All
-2J, 1, None, Computer_Jr, All
-2K, 4, None, Computer_Jr, All
-2L, 10, None, Computer_Jr, All
-3J, 5, None, Computer_Jr, All
-3K, 10, None, Computer_Jr, All
-5D, 5, None, Computer_Jr, All
-5E, 1, None, Computer_Jr, All
-5C, 10, None, Computer_Jr, All
-2C, 4, None, Computer_Jr, All
-2H, 5, None, Computer_Jr, All
-2A, 6, None, Computer_Jr, All
+3A-3B-3C-3D-3E-3F, 6, No teacher, Games_Jr, All
+8E-8F-8G-8H, 6, Sudipto Majumdar, Art_Sr, All
+5I-5J-5K-5L, 4, Samir Nandi, Tabla, All
+6A-6B-6C-6D, 5, Samir Nandi, Tabla, All
+5A-5B-5C-5D, 4, Samir Nandi, Tabla, All
+7A-7B-7C-7D, 2, Samir Nandi, Tabla, All
+7I-7J-7K-7L, 11, Samir Nandi, Tabla, All
+8I-8J-8K-8L, 4, Samir Nandi, Tabla, All
+8A-8B-8C-8D, 6, Samir Nandi, Tabla, All
+3L, 2, No teacher, Computer_Jr, All
+5B, 9, No teacher, Computer_Jr, All
+5A, 10, No teacher, Computer_Jr, All
+2B, 9, No teacher, Computer_Jr, All
+2D, 5, No teacher, Computer_Jr, All
+2E, 10, No teacher, Computer_Jr, All
+2F, 2, No teacher, Computer_Jr, All
+2G, 9, No teacher, Computer_Jr, All
+2I, 6, No teacher, Computer_Jr, All
+2J, 1, No teacher, Computer_Jr, All
+2K, 4, No teacher, Computer_Jr, All
+2L, 10, No teacher, Computer_Jr, All
+3J, 5, No teacher, Computer_Jr, All
+3K, 10, No teacher, Computer_Jr, All
+5D, 5, No teacher, Computer_Jr, All
+5E, 1, No teacher, Computer_Jr, All
+5C, 10, No teacher, Computer_Jr, All
+2C, 4, No teacher, Computer_Jr, All
+2H, 5, No teacher, Computer_Jr, All
+2A, 6, No teacher, Computer_Jr, All
 4E, 2, Rajshree Roy, Maths.Jr, All
 3B, 5, Aditi Sengupta, Maths.Jr, All
 3J, 2, Harinder Preet Kaur, English.Jr, All
@@ -1459,15 +1458,15 @@ None, 6, Samir Nandi, Tabla, All
 9I, 6, Nandita Bose, Chemistry, All
 2D, 6, Sharmishtha Banerjee, EVS.II, All
 2D, 2, Sharmishtha Banerjee, EVS.II, All
-None, 6, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
+2E-2F, 6, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
 3A, 4, Madhumita Bhattacharya, Bengali.2nd.Jr., All
 5K, 10, Sourobhi Dey, Value Education, All
 12B (Bio), 3, Lapita Das, English.12, All
 12N CS, 7, Paromita chakraborty, English.12, All
 12Y ((HUMANITIES.1), 3, Roshni Mukherjee_Eng.1, Eng.Hum.+2, All
-None, 2, New_Tabla 1, Tabla, All
-None, 5, Samir Nandi, Tabla, All
-None, 4, New_Tabla 1, Tabla, All
+4A-4B-4C-4D, 2, New_Tabla 1, Tabla, All
+4E-4F-4G-4H, 5, Samir Nandi, Tabla, All
+5E-5F-5G-5H, 4, New_Tabla 1, Tabla, All
 3G, 2, Tanima Naha Ray, Bengali.2nd.Jr., All
 3H, 1, New_Moumita Saha_ADH, Bengali.2nd.Jr., All
 7C, 4, New_Md. Shahid_ADH, Maths.Sr, All
@@ -1475,10 +1474,10 @@ None, 4, New_Tabla 1, Tabla, All
 8H, 2, New_Subham Mitra, Maths.Sr, All
 5L, 1, Chandan Bhowmick.Maths, Maths.Jr, All
 6H, 2, New_Md. Shahid_ADH, Maths.Sr, All
-None, 5, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
-None, 2, Bratati Baidya, Bengali.2nd.Jr., All
-None, 10, Tanima Naha Ray, Bengali(3rd), All
-None, 4, Sangeeta_Bengali, Bengali.2nd.Jr., All
+2K-2L, 5, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
+4F-4H, 2, Bratati Baidya, Bengali.2nd.Jr., All
+7I-7J-7K-7L, 10, Tanima Naha Ray, Bengali(3rd), All
+3B-3C, 4, Sangeeta_Bengali, Bengali.2nd.Jr., All
 7H, 6, New_Subham Mitra, Maths.Sr, All
 9F, 1, Sudakshina Mukherjee.Eng, English.Sr, All
 4E, 5, New_Anubrati Majumdar_ADH, English.Jr, All
@@ -1525,27 +1524,27 @@ None, 4, Sangeeta_Bengali, Bengali.2nd.Jr., All
 12L (CS), 3, Deepanjan Das, Physics Lab +2, Odd
 12S.-Sp.CS.PE, 8, Anirban Sinha, Comp.Sc+2.Sp, All
 12W(Com.MATHS), 8, Koushik Sarkar, Maths+2.Com, All
-None, 11, Joyoti Mallick_german, German, All
-None, 9, Joyoti Mallick_german, German, All
-None, 2, Joyoti Mallick_german, German, All
-None, 1, Joyoti Mallick_german, German, All
-None, 10, Joyoti Mallick_german, German, All
+6A-6B-6C, 11, Joyoti Mallick_german, German, All
+6D-6E-6F, 9, Joyoti Mallick_german, German, All
+6G-6H-6I, 2, Joyoti Mallick_german, German, All
+8A-8B-8C-8D, 1, Joyoti Mallick_german, German, All
+8E-8F-8G-8H, 10, Joyoti Mallick_german, German, All
 12F(Bio/PE), 3, Tanushree Das, Biology Lab Sr +2, Odd
 12F(Bio/PE), 2, Tanushree Das, Biology.12, Odd
 12H(Bio), 7, Rohan Mukherjee, Biology.12, All
 12H(Bio), 8, Rohan Mukherjee, Biology.12, Even
 12H(Bio), 8, Samiran Paul, PE+2, All
 12H(Bio), 9, Rohan Mukherjee, Biology Lab Sr +2, Odd
-12O (CS Math/PE), 3, None, Chemistry Lab +2, Odd
-12O (CS Math/PE), 3, None, Chemistry.12, All
-12O (CS Math/PE), 7, None, Comp.Lab_Sr, Even
-12O (CS Math/PE), 10, None, Comp.Sc.12, All
-12O (CS Math/PE), 9, None, Physics.12, All
-12O (CS Math/PE), 3, None, Physics Lab +2, Even
-12O (CS Math/PE), 7, None, PE+2, All
-12O (CS Math/PE), 9, None, Maths.12, All
-12O (CS Math/PE), 8, None, Library_Sr, All
-12O (CS Math/PE), 2, None, English.12, All
+12O (CS Math/PE), 3, No teacher, Chemistry Lab +2, Odd
+12O (CS Math/PE), 3, No teacher, Chemistry.12, All
+12O (CS Math/PE), 7, No teacher, Comp.Lab_Sr, Even
+12O (CS Math/PE), 10, No teacher, Comp.Sc.12, All
+12O (CS Math/PE), 9, No teacher, Physics.12, All
+12O (CS Math/PE), 3, No teacher, Physics Lab +2, Even
+12O (CS Math/PE), 7, No teacher, PE+2, All
+12O (CS Math/PE), 9, No teacher, Maths.12, All
+12O (CS Math/PE), 8, No teacher, Library_Sr, All
+12O (CS Math/PE), 2, No teacher, English.12, All
 11Q-Sp.MED, 3, Sp. Zoology Faculty, Zoo.Sp.12, All
 12R-Sp.ECO.CS.BIO, 3, Nilanjana karmakar, Economics.Sp, Even
 12R-Sp.ECO.CS.BIO, 3, Sidhhartha Comp.PGT, Comp.Sc+2.Sp, Even
@@ -1569,7 +1568,7 @@ None, 10, Joyoti Mallick_german, German, All
 11B Bio.M, 2, Soumi Sengupta, Physics.11, All
 11C  Bio.M, 9, Rohan Mukherjee, Biology Lab Sr +2, Odd
 11C  Bio.M, 11, Rohan Mukherjee, Biology.11, Odd
-11C  Bio.M, 9, None, Library_Sr, Odd
+11C  Bio.M, 9, No teacher, Library_Sr, Odd
 11C  Bio.M, 11, Akulina Kar, Physics Lab +2, Even
 11D - Bio.M, 9, Tanushree Das, Biology.11, All
 11F-Bio.M, 3, Indrani Panda, Biology Lab Sr +2, Even
@@ -1770,13 +1769,13 @@ None, 10, Joyoti Mallick_german, German, All
 4D, 5, Nitu Singh, Hindi(2nd).Jr, All
 5E, 6, Varsha Dhar, Hindi(2nd).Jr, All
 5J, 4, Kajal Kr. Ruz_Hindi.1, Hindi(2nd).Jr, All
-None, 6, Babita Tiwari, Hindi(2nd).Jr, All
+3E-3F, 6, Babita Tiwari, Hindi(2nd).Jr, All
 4B, 1, New_Amrita Mukherjee, EVS.Sc.IV, All
 4B, 1, New_Amrita Mukherjee, EVS.Sc.IV, All
 4G, 2, New_Amrita Mukherjee, EVS.Sc.IV, All
 3F, 9, Babita Tiwari, G.K A.V, All
-None, 4, Anju Dubey, Hindi(2nd).Sr, All
-None, 10, Anju Dubey, Hindi(3rd), All
+6K-6L, 4, Anju Dubey, Hindi(2nd).Sr, All
+8E-8F-8G-8H, 10, Anju Dubey, Hindi(3rd), All
 10K, 9, Anju Dubey, Hindi(2nd).Sr, All
 9H, 9, Anju Dubey, Hindi(2nd).Sr, All
 7C, 10, Anushila Sinha, Hindi(2nd).Sr, All
@@ -1784,7 +1783,7 @@ None, 10, Anju Dubey, Hindi(3rd), All
 4G, 1, Nitu Singh, G.K A.V, All
 4B, 6, Nitu Singh, Hindi(2nd).Jr, All
 3G, 4, Dipannita Mukherjee, Value Education, All
-None, 1, Nitu Singh, Hindi(3rd), All
+8A-8B-8C-8D, 1, Nitu Singh, Hindi(3rd), All
 11L -CS, 8, New_Alak Kr. Garu, Physics.11, All
 11L -CS, 3, New_Alak Kr. Garu, Physics Lab +2, Even
 11H-Bio.PE, 2, New_Niladrishekhar Palchoudhury.Phy, Physics.11, All
@@ -1814,24 +1813,24 @@ None, 1, Nitu Singh, Hindi(3rd), All
 11T.Com.IP.PE, 9, Kinnori Sinha,  Class Test_11_Com, All
 9G, 9, Sreya lahiri, Hist_Civ_9_10, All
 3F, 6, New_Mrinalini Mukherjee_ADH, Value Education, All
-7A, 11, None, Geography, Even
-7A, 1, None, Geography, All
+7A, 11, Rwijuta BhattacharjeeSrijan Biswas, Geography, Even
+7A, 1, Rwijuta BhattacharjeeSrijan Biswas, Geography, All
 9C, 4, Maushumi Rudra, Eco_IX_ X, All
 9C, 2, Maushumi Rudra, Geog_9_10, All
 4J, 4, New_Anubrati Majumdar_ADH, Value Education, All
 2F, 5, Dipannita Mukherjee, Value Education, All
 10G, 6, Manoj K Sharma, Sanskrit(2nd), All
-6C, 9, None, Geography, Odd
-6C, 1, None, Geography, All
-7L, 2, None, Geography, All
-7L, 5, None, Geography, Odd
-7J, 2, None, Geography, All
-7J, 10, None, Geography, Odd
-7D, 10, None, Geography, All
-7D, 2, None, Geography, Odd
+6C, 9, Rwijuta BhattacharjeeMahua D'Rozario, Geography, Odd
+6C, 1, Rwijuta BhattacharjeeMahua D'Rozario, Geography, All
+7L, 2, Rwijuta BhattacharjeeDablu Barman, Geography, All
+7L, 5, Rwijuta BhattacharjeeDablu Barman, Geography, Odd
+7J, 2, Rwijuta BhattacharjeeMaushumi Rudra, Geography, All
+7J, 10, Rwijuta BhattacharjeeMaushumi Rudra, Geography, Odd
+7D, 10, Rwijuta BhattacharjeeAshmita Bhattacharjee, Geography, All
+7D, 2, Rwijuta BhattacharjeeAshmita Bhattacharjee, Geography, Odd
 5L, 4, Sulagna Sen Roy, Value Education, All
 4F, 9, Sharmishtha Banerjee, Value Education, All
-4F, 4, None, EVS.Sc.IV, All
+4F, 4, Rwijuta BhattacharjeeSubhajit Ganguly, EVS.Sc.IV, All
 5L, 1, Rosemary Gomes, English.Jr, All
 5H, 2, New_Anubrati Majumdar_ADH, English.Jr, All
 2A, 10, Debojyoti Dhara, Art_Jr, All
@@ -1875,145 +1874,145 @@ None, 1, Nitu Singh, Hindi(3rd), All
 12A (Bio), 10, Sumana Chemistry, Chemistry Lab +2, Odd
 12W(Com.MATHS), 1, Prasenjit Saha.PE.1, PE.SP - +2, All
 12V (Com.M), 3, Anuradha Sen, Eng.Com+2, All
-None, 5, None, Games_Sr, All
-None, 1, None, P.T, All
-None, 1, None, P.T, All
-None, 1, None, P.T, All
-None, 1, None, P.T, All
+6A-6B-6C-6D-6E-6F, 5, No teacher, Games_Sr, All
+5A-5B-5C-5D-5E-5F-5G-5H-5I-5J-5K-5L, 1, No teacher, P.T, All
+3A-3B-3C-3D-3E-3F-3G-3H-3I-3J-3K-3L, 1, No teacher, P.T, All
+4A-4B-4C-4D-4E-4F-4G-4H-4I-4J-4K-4L, 1, No teacher, P.T, All
+2A-2B-2C-2D-2E-2F-2G-2H-2I-2J-2K-2L, 1, No teacher, P.T, All
 12F(Bio/PE), 2, New_Arijit Kumar_PGT, PE+2, All
 12F(Bio/PE), 1, New_Arijit Kumar_PGT, PE+2, Odd
-None, 9, Biswajit Nandy, PE+2, All
+11O.CS/PE-11S-Sp.CS/PE, 9, Biswajit Nandy, PE+2, All
 12Y ((HUMANITIES.1), 9, Angana Chatterjee,  Class Test_12_Humanities, All
 11E-Bio.M, 3, Sandhya Ray, Biology.11, All
 12F(Bio/PE), 1, Rohan Mukherjee, Biology.12, All
 11H-Bio.PE, 1, Sandhya Ray, Biology.11, All
 9G, 6, Samir Pal_Sanskrit.2, Sanskrit(2nd), All
-None, 10, Manoj K Sharma, Sanskrit(3rd), All
-None, 11, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 2, Manoj K Sharma, Sanskrit(3rd), All
-None, 9, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
-None, 11, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+8E-8F-8G-8H, 10, Manoj K Sharma, Sanskrit(3rd), All
+7A-7B-7C-7D, 11, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+6G-6H-6I, 2, Manoj K Sharma, Sanskrit(3rd), All
+6D-6E-6F, 9, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
+6A-6B-6C, 11, Samir Pal_Sanskrit.2, Sanskrit(3rd), All
 9I, 5, Soumya Mitra, Bio Lab.Smart, Odd
 9I, 11, Soumya Mitra, Biology, Odd
 9I, 11, Soumya Mitra, Biology, All
 9H, 6, Joyoti Mallick_german, German, All
-None, 6, Tanima Naha Ray, Bengali.2nd.Sr, All
-None, 6, Aftab Hussain, Guitar, All
-None, 9, Samir Nandi, Tabla, All
-None, 1, Tilak Chatterjee, Violin, All
-None, 5, Tilak Chatterjee, Violin, All
-None, 6, Tilak Chatterjee, Violin, All
-None, 4, Nilanjan Mukherjee, Guitar, All
-None, 6, Nilanjan Mukherjee, Guitar, All
-None, 5, Aftab Hussain, Guitar, All
-None, 11, Senjulika Adhikari, Western Vocal Sr, All
-None, 10, Senjulika Adhikari, Western Vocal Sr, All
-None, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 9, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 2, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 5, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+6I-6J, 6, Tanima Naha Ray, Bengali.2nd.Sr, All
+8A-8B-8C-8D, 6, Aftab Hussain, Guitar, All
+9A-9B-9C-9D, 9, Samir Nandi, Tabla, All
+9I-9J-9K-9L, 1, Tilak Chatterjee, Violin, All
+9E-9F-9G-9H, 5, Tilak Chatterjee, Violin, All
+8A-8B-8C-8D, 6, Tilak Chatterjee, Violin, All
+8E-8F-8G-8H, 4, Nilanjan Mukherjee, Guitar, All
+6E-6F-6G-6H, 6, Nilanjan Mukherjee, Guitar, All
+6A-6B-6C-6D, 5, Aftab Hussain, Guitar, All
+6E-6F-6G-6H, 11, Senjulika Adhikari, Western Vocal Sr, All
+6A-6B-6C-6D, 10, Senjulika Adhikari, Western Vocal Sr, All
+5E-5F-5G-5H, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+5I-5J-5K-5L, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+5A-5B-5C-5D, 4, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+4I-4J-4K-4L, 9, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+4A-4B-4C-4D, 2, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+4E-4F-4G-4H, 5, Senjulika Adhikari, West. Mu.Vocal.Jr, All
 8K, 5, Deboshree Ch. Basak, Chemistry, All
 8I, 5, Deboshree Ch. Basak, Chemistry, Even
-None, 1, New_Tabla 1, Tabla, All
-None, 1, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 1, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 2, New_Tabla 1, Tabla, All
-None, 2, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 9, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 10, New_Tabla 1, Tabla, All
-None, 10, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 6, Senjulika Adhikari, West. Mu.Vocal.Jr, All
-None, 9, None, Guitar, All
-None, 9, None, Piano, All
-None, 6, None, Piano, All
-None, 6, None, Guitar, All
-None, 2, None, Guitar, All
-None, 5, None, Piano, All
-None, 9, None, Guitar, All
-None, 4, None, Guitar, All
-None, 4, None, Guitar, All
-None, 5, Jayanto Chakra., Piano, All
-None, 6, Ratnadeep Basu_Piano, Piano, All
-None, 11, Ratnadeep Basu_Piano, Piano, All
-None, 10, Jayanto Chakra., Piano, All
-None, 4, Ratnadeep Basu_Piano, Piano, All
-None, 9, Jayanto Chakra., Piano, All
-None, 2, Jayanto Chakra., Piano, All
-None, 1, None, Piano, All
-None, 6, Ananya Ganguly, Mu.Voc.Sr, All
-None, 9, Samiran Paul, PE+2, Even
+2A-2B-2C-2D, 1, New_Tabla 1, Tabla, All
+2A-2B-2C-2D, 1, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+2E-2F-2G-2H, 1, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+2I-2J-2K-2L, 2, New_Tabla 1, Tabla, All
+2I-2J-2K-2L, 2, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+3A-3B-3C-3D, 9, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+3E-3F-3G-3H, 10, New_Tabla 1, Tabla, All
+3E-3F-3G-3H, 10, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+3I-3J-3K-3L, 6, Senjulika Adhikari, West. Mu.Vocal.Jr, All
+3A-3B-3C-3D, 9, Nilanjan MukherjeeAftab Hussain, Guitar, All
+3A-3B-3C-3D, 9, Jayanto Chakra.Ratnadeep Basu_Piano, Piano, All
+3I-3J-3K-3L, 6, Jayanto Chakra.Ratnadeep Basu_Piano, Piano, All
+3I-3J-3K-3L, 6, Aftab HussainNilanjan Mukherjee, Guitar, All
+4A-4B-4C-4D, 2, Aftab HussainNilanjan Mukherjee, Guitar, All
+4E-4F-4G-4H, 5, Ratnadeep Basu_PianoJayanto Chakra., Piano, All
+4I-4J-4K-4L, 9, Aftab HussainNilanjan Mukherjee, Guitar, All
+5A-5B-5C-5D, 4, Nilanjan MukherjeeAftab Hussain, Guitar, All
+5I-5J-5K-5L, 4, Nilanjan MukherjeeAftab Hussain, Guitar, All
+9E-9F-9G-9H, 5, Jayanto Chakra., Piano, All
+8E-8F-8G-8H, 6, Ratnadeep Basu_Piano, Piano, All
+6E-6F-6G-6H, 11, Ratnadeep Basu_Piano, Piano, All
+6A-6B-6C-6D, 10, Jayanto Chakra., Piano, All
+5A-5B-5C-5D, 4, Ratnadeep Basu_Piano, Piano, All
+4I-4J-4K-4L, 9, Jayanto Chakra., Piano, All
+2I-2J-2K-2L, 2, Jayanto Chakra., Piano, All
+2A-2B-2C-2D, 1, Jayanto Chakra.Ratnadeep Basu_Piano, Piano, All
+8E-8F-8G-8H, 6, Ananya Ganguly, Mu.Voc.Sr, All
+11O.CS/PE-11S-Sp.CS/PE, 9, Samiran Paul, PE+2, Even
 11G BIO PE, 2, New_Arijit Kumar_PGT, PE+2, All
-None, 2, Senjulika Adhikari, Western Vocal Sr, All
-None, 11, Senjulika Adhikari, Western Vocal Sr, All
-None, 11, Senjulika Adhikari, Western Vocal Sr, All
+7A-7B-7C-7D, 2, Senjulika Adhikari, Western Vocal Sr, All
+7E-7F-7G-7H, 11, Senjulika Adhikari, Western Vocal Sr, All
+7I-7J-7K-7L, 11, Senjulika Adhikari, Western Vocal Sr, All
 11P- ECO/CS, 3, Kinnori Sinha, Eco.11, All
 12W(Com.MATHS), 8, Prasenjit Saha.PE.1, PE.SP - +2, All
 12S.-Sp.CS.PE, 11, New_Arijit Kumar_PGT, PE.SP - +2, All
 11P- ECO/CS, 2, Samiran Paul, PE+2, All
 11P- ECO/CS, 3, New_Arijit Kumar_PGT, PE+2, All
-None, 1, Samir Nandi, Tabla, All
-None, 4, Tilak Chatterjee, Violin, All
-None, 10, Tilak Chatterjee, Violin, All
-None, 1, Samir Nandi, Tabla, All
-None, 9, Samir Nandi, Tabla, All
-None, 6, Samir Nandi, Tabla, All
-None, 9, Samir Nandi, Tabla, All
-None, 4, New_Tabla 1, Tabla, All
-None, 10, New_Tabla 1, Tabla, All
-None, 2, Samir Nandi, Tabla, All
-None, 1, Aftab Hussain, Guitar, All
-None, 2, Nilanjan Mukherjee, Guitar, All
-None, 1, Aftab Hussain, Guitar, All
-None, 5, Nilanjan Mukherjee, Guitar, All
-None, 4, Nilanjan Mukherjee, Guitar, All
-None, 4, Jayanto Chakra., Piano, All
-None, 1, Ratnadeep Basu_Piano, Piano, All
-None, 2, Ratnadeep Basu_Piano, Piano, All
-None, 2, Senjulika Adhikari, Western Vocal Sr, All
-None, 4, Ratnadeep Basu_Piano, Piano, All
-None, 5, Samir Nandi, Tabla, All
-None, 11, Samir Nandi, Tabla, All
-None, 11, Tilak Chatterjee, Violin, All
-None, 9, Tilak Chatterjee, Violin, All
-None, 10, Aftab Hussain, Guitar, All
-None, 10, Ratnadeep Basu_Piano, Piano, All
-None, 1, Ratnadeep Basu_Piano, Piano, All
-8L, 9, None, Library_Sr, All
-8K, 11, None, Library_Sr, All
-8J, 10, None, Library_Sr, All
-8I, 4, None, Library_Sr, All
-8H, 9, None, Library_Sr, All
-8G, 5, None, Library_Sr, All
-8F, 5, None, Library_Sr, All
-8E, 5, None, Library_Sr, All
-8D, 1, None, Library_Sr, All
-8C, 5, None, Library_Sr, All
-8B, 4, None, Library_Sr, All
-8A, 11, None, Library_Sr, All
-7L, 10, None, Library_Sr, All
-7K, 9, None, Library_Sr, All
-7J, 9, None, Library_Sr, All
-7I, 5, None, Library_Sr, All
-7H, 6, None, Library_Sr, All
-7G, 1, None, Library_Sr, All
-7F, 10, None, Library_Sr, All
-7E, 6, None, Library_Sr, All
-7D, 9, None, Library_Sr, All
-7C, 5, None, Library_Sr, All
-7B, 1, None, Library_Sr, All
-6L, 2, None, Library_Sr, All
-6K, 5, None, Library_Sr, All
-6J, 4, None, Library_Sr, All
-6I, 11, None, Library_Sr, All
-6H, 9, None, Library_Sr, All
-6G, 4, None, Library_Sr, All
-6F, 2, None, Library_Sr, All
-6E, 10, None, Library_Sr, All
-6D, 10, None, Library_Sr, All
-6C, 2, None, Library_Sr, All
-7A, 2, None, Library_Sr, All
+9I-9J-9K-9L, 1, Samir Nandi, Tabla, All
+8E-8F-8G-8H, 4, Tilak Chatterjee, Violin, All
+8I-8J-8K-8L, 10, Tilak Chatterjee, Violin, All
+2E-2F-2G-2H, 1, Samir Nandi, Tabla, All
+3A-3B-3C-3D, 9, Samir Nandi, Tabla, All
+3I-3J-3K-3L, 6, Samir Nandi, Tabla, All
+4I-4J-4K-4L, 9, Samir Nandi, Tabla, All
+8E-8F-8G-8H, 4, New_Tabla 1, Tabla, All
+7E-7F-7G-7H, 10, New_Tabla 1, Tabla, All
+6I-6J-6K-6L, 2, Samir Nandi, Tabla, All
+2A-2B-2C-2D, 1, Aftab Hussain, Guitar, All
+2I-2J-2K-2L, 2, Nilanjan Mukherjee, Guitar, All
+2E-2F-2G-2H, 1, Aftab Hussain, Guitar, All
+4E-4F-4G-4H, 5, Nilanjan Mukherjee, Guitar, All
+5E-5F-5G-5H, 4, Nilanjan Mukherjee, Guitar, All
+5I-5J-5K-5L, 4, Jayanto Chakra., Piano, All
+2E-2F-2G-2H, 1, Ratnadeep Basu_Piano, Piano, All
+4A-4B-4C-4D, 2, Ratnadeep Basu_Piano, Piano, All
+6I-6J-6K-6L, 2, Senjulika Adhikari, Western Vocal Sr, All
+5E-5F-5G-5H, 4, Ratnadeep Basu_Piano, Piano, All
+9E-9F-9G-9H, 5, Samir Nandi, Tabla, All
+6E-6F-6G-6H, 11, Samir Nandi, Tabla, All
+7I-7J-7K-7L, 11, Tilak Chatterjee, Violin, All
+9A-9B-9C-9D, 9, Tilak Chatterjee, Violin, All
+3E-3F-3G-3H, 10, Aftab Hussain, Guitar, All
+3E-3F-3G-3H, 10, Ratnadeep Basu_Piano, Piano, All
+9I-9J-9K-9L, 1, Ratnadeep Basu_Piano, Piano, All
+8L, 9, No teacher, Library_Sr, All
+8K, 11, No teacher, Library_Sr, All
+8J, 10, No teacher, Library_Sr, All
+8I, 4, No teacher, Library_Sr, All
+8H, 9, No teacher, Library_Sr, All
+8G, 5, No teacher, Library_Sr, All
+8F, 5, No teacher, Library_Sr, All
+8E, 5, No teacher, Library_Sr, All
+8D, 1, No teacher, Library_Sr, All
+8C, 5, No teacher, Library_Sr, All
+8B, 4, No teacher, Library_Sr, All
+8A, 11, No teacher, Library_Sr, All
+7L, 10, No teacher, Library_Sr, All
+7K, 9, No teacher, Library_Sr, All
+7J, 9, No teacher, Library_Sr, All
+7I, 5, No teacher, Library_Sr, All
+7H, 6, No teacher, Library_Sr, All
+7G, 1, No teacher, Library_Sr, All
+7F, 10, No teacher, Library_Sr, All
+7E, 6, No teacher, Library_Sr, All
+7D, 9, No teacher, Library_Sr, All
+7C, 5, No teacher, Library_Sr, All
+7B, 1, No teacher, Library_Sr, All
+6L, 2, No teacher, Library_Sr, All
+6K, 5, No teacher, Library_Sr, All
+6J, 4, No teacher, Library_Sr, All
+6I, 11, No teacher, Library_Sr, All
+6H, 9, No teacher, Library_Sr, All
+6G, 4, No teacher, Library_Sr, All
+6F, 2, No teacher, Library_Sr, All
+6E, 10, No teacher, Library_Sr, All
+6D, 10, No teacher, Library_Sr, All
+6C, 2, No teacher, Library_Sr, All
+7A, 2, No teacher, Library_Sr, All
 12I(CS), 3, Kausik Roy.Chem, Chemistry Lab +2, Odd
 11R-Sp.- Eco/CS/Bio, 3, Samrat Mukherjee SP.CL, Chem.Sp.+2, All
 11S-Sp.CS/PE, 8, Samrat Mukherjee SP.CL, Chem.Sp.+2, All
@@ -2044,7 +2043,7 @@ None, 1, Ratnadeep Basu_Piano, Piano, All
 9D, 6, Kumar Kislay, Hindi(2nd).Sr, All
 12S.-Sp.CS.PE, 9, Subrata Mitra, Chemistry Lab +2, Even
 11S-Sp.CS/PE, 3, Supriyo Boral_Chemistry, Chemistry Lab +2, Odd
-None, 2, Purba Mukherjee, Bengali.2nd.Sr, All
+10A-10C-10H, 2, Purba Mukherjee, Bengali.2nd.Sr, All
 8C, 11, Kumar Kislay, Hindi(2nd).Sr, All
 10B, 9, C K Tiwari, Hindi(2nd).Sr, All
 10E, 4, Archana Jha, Hindi(2nd).Sr, All
@@ -2052,8 +2051,8 @@ None, 2, Purba Mukherjee, Bengali.2nd.Sr, All
 10C, 9, Anushila Sinha, Hindi(2nd).Sr, All
 10H, 4, C K Tiwari, Hindi(2nd).Sr, All
 10I, 11, Archana Jha, Hindi(2nd).Sr, All
-8C, 11, None, Geography, All
-8C, 6, None, Geography, Odd
+8C, 11, Rwijuta BhattacharjeeAshmita Bhattacharjee, Geography, All
+8C, 6, Rwijuta BhattacharjeeAshmita Bhattacharjee, Geography, Odd
 11O.CS/PE, 1, New_Alak Kr. Garu, Physics.11, All
 11Q-Sp.MED, 10, Supriyo Boral_Chemistry, Chemistry Lab +2, Odd
 12Q-SP.MED, 11, Supriyo Boral_Chemistry, Chemistry Lab +2, Even
@@ -2088,7 +2087,7 @@ None, 2, Purba Mukherjee, Bengali.2nd.Sr, All
 11I-CS, 8, Sounak Ghosh, Physics.11, All
 12K (CS), 3, Deepanjan Das, Physics Lab +2, Odd
 12K (CS), 7, Sounak Ghosh, Physics.12, All
-7G, 2, None, Maths.Sr, All
+7G, 2, Debarchana maths_PRT.1New_Saini Kar, Maths.Sr, All
 7E, 5, New_Saini Kar, Maths.Sr, All
 3J, 6, New_Mrinalini Mukherjee_ADH, Value Education, All
 9C, 4, New_Saini Kar, Maths.Sr, All
@@ -2130,17 +2129,17 @@ None, 2, Purba Mukherjee, Bengali.2nd.Sr, All
 7H, 2, New_Saptarshi Bhattacharya_TGT, Hist.&Civics, All
 8K, 4, New_Saptarshi Bhattacharya_TGT, Hist.&Civics, Even
 8K, 10, New_Saptarshi Bhattacharya_TGT, Hist.&Civics, All
-7C, 11, None, Hist.&Civics, All
-7C, 4, None, Hist.&Civics, Even
-7J, 5, None, Hist.&Civics, Odd
-7J, 5, None, Hist.&Civics, All
-5K, 6, None, EVS_SST.V, All
+7C, 11, New_Sreya choudhury_historyArpita Basu Roy.Pol Sc, Hist.&Civics, All
+7C, 4, New_Sreya choudhury_historyArpita Basu Roy.Pol Sc, Hist.&Civics, Even
+7J, 5, New_Sreya choudhury_historyArpita Basu Roy.Pol Sc, Hist.&Civics, Odd
+7J, 5, New_Sreya choudhury_historyArpita Basu Roy.Pol Sc, Hist.&Civics, All
+5K, 6, New_Sreya choudhury_historyAnindita Chatterjee, EVS_SST.V, All
 2I, 9, Manisha Khanna, Value Education, All
 5D, 9, Soumya Mitra, EVS.Sc.V, All
 3H, 10, Manisha Khanna, EVS III, All
 4J, 2, Ankush Das, Mu_Vocal_Jr, All
-6A, 9, None, Library_Sr, All
-6B, 2, None, Library_Sr, All
+6A, 9, No teacher, Library_Sr, All
+6B, 2, No teacher, Library_Sr, All
 11N -CS, 7, Tonoy Dey, Chemistry.11, All
 11N -CS, 9, Tonoy Dey, Chemistry.11, Even
 5A, 2, Tamal Bhattacharya, Art_Jr, All
@@ -2245,7 +2244,7 @@ None, 2, Purba Mukherjee, Bengali.2nd.Sr, All
 11S-Sp.CS/PE, 8, Sudarshan Manna, Comp.Sc+2.Sp, All
 12B (Bio), 9, Hafizul Mondal, Maths.12, All
 12V (Com.M), 8, Kanchan Kumari, Maths+2.Com, All
-None, 1, Gopal Krishna Jha, Maths+2.Com, All
+11V (Com.Maths)-11Y(Hum), 1, Gopal Krishna Jha, Maths+2.Com, All
 11O.CS/PE, 9, Ranjana Thirani,  Class Test 11_Sc, All
 12D(BIO), 2, Hafizul Mondal, Maths.12, All
 11W(Com.Maths), 7, Ranjana Thirani, Maths+2.Com, All
@@ -2259,13 +2258,13 @@ None, 1, Gopal Krishna Jha, Maths+2.Com, All
 6H, 9, New_Sreya choudhury_history, Hist.&Civics, Odd
 6H, 5, New_Sreya choudhury_history, Hist.&Civics, All
 5G, 1, Anindita D.Roy, EVS.Sc.V, All
-None, 6, Sangeeta_Bengali, Bengali.2nd.Sr, All
+6E-6F, 6, Sangeeta_Bengali, Bengali.2nd.Sr, All
 3J, 10, Bratati Baidya, Bengali.2nd.Jr., All
 11L -CS, 10, New Arijit Sarkar, Chemistry Lab +2, Odd
 5C, 5, Jayshree Eshwar, English.Jr, All
 5I, 6, Harinder Preet Kaur, English.Jr, All
-None, 9, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
-None, 4, Bratati Baidya, Bengali.2nd.Jr., All
+5C-5D, 9, Madhurima Sadhukhan_Beng, Bengali.2nd.Jr., All
+5I-5J, 4, Bratati Baidya, Bengali.2nd.Jr., All
 12U(Com_M), 1, Gopal Krishna Jha, Maths+2.Com, All
 12M (CS), 1, Supriyo Boral_Chemistry, Chemistry.12, All
 12M (CS), 9, Supriyo Boral_Chemistry, Chemistry Lab +2, Odd
@@ -2278,7 +2277,7 @@ None, 4, Bratati Baidya, Bengali.2nd.Jr., All
 11Q-Sp.MED, 11, Milton Saha, Maths.Sp.+2, All
 12P ECO, 3, Milton Saha, Maths.12, All
 12V (Com.M), 7, Kanchan Kumari, Maths+2.Com, All
-12O (CS Math/PE), 9, None,  Class Test 12_Sc, All
+12O (CS Math/PE), 9, No teacher,  Class Test 12_Sc, All
 11M - CS, 3, Nirupam Paul.Maths, Maths.11, All
 11U (Com.Maths), 10, Gopal Krishna Jha, Maths+2.Com, All
 12I(CS), 9, Ranjana Thirani,  Class Test 12_Sc, All
@@ -2286,10 +2285,10 @@ None, 4, Bratati Baidya, Bengali.2nd.Jr., All
 10L, 11, Alokananda Bandopadhyay, Chem Lab_smart, Odd
 10L, 1, Alokananda Bandopadhyay, Chemistry, All
 11 PE 6th Sub 1, 11, Prasenjit Saha.PE.1, PE 6th, All
-5B, 9, None, Maths.Jr, All
-6I, 2, None, Maths.Sr, All
+5B, 9, Debarchana maths_PRT.1New_Subham Mitra, Maths.Jr, All
+6I, 2, Debarchana maths_PRT.1New_Saini Kar, Maths.Sr, All
 3J, 2, New_Sreya choudhury_history, EVS III, All
-5K, 10, None, Maths.Jr, All
+5K, 10, Debarchana maths_PRT.1Reena Jalan, Maths.Jr, All
 5C, 9, Reena Jalan, Maths.Jr, All
 7L, 1, Kamini Singhal, Maths.Sr, All
 6A, 1, Shagufta Jain, Maths.Sr, All
@@ -2307,7 +2306,7 @@ None, 4, Bratati Baidya, Bengali.2nd.Jr., All
 12W(Com.MATHS), 7, Sumona Roy, Accountancy XI, All
 12W(Com.MATHS), 2, Sandhya Suresh, Business Studies+2, All
 11U (Com.Maths), 2, Nilanjana karmakar, Eco.Comm+2, All
-None, 2, Alokananda Mukherjee, Eco.Comm+2, All
+11V (Com.Maths)-11Y(Hum), 2, Alokananda Mukherjee, Eco.Comm+2, All
 11W(Com.Maths), 9, Alokananda Mukherjee, Eco.Comm+2, All
 12U(Com_M), 10, Arindam Basu, Eco.Comm+2, All
 12V (Com.M), 3, Nilanjana karmakar, Eco.Comm+2, All
@@ -2353,25 +2352,25 @@ None, 2, Alokananda Mukherjee, Eco.Comm+2, All
 3I, 6, New_Sreya choudhury_history, Value Education, All
 4B, 1, New_Sreya choudhury_history, EVS.SST.IV, All
 4F, 6, New_Sreya choudhury_history, EVS.SST.IV, All
-4K, 4, None, EVS.SST.IV, All
-12Y ((HUMANITIES.1), 8, None, Psychology+2, All
-11Y(Hum), 1, None, Psychology+2, All
-5L, 9, None, EVS_SST.V, All
-3I, 1, None, EVS III, All
-3I, 5, None, EVS III, All
-5C, 2, None, EVS_SST.V, All
-4J, 10, None, EVS.SST.IV, All
-6D, 5, None, Hist.&Civics, All
-6D, 1, None, Hist.&Civics, Odd
-6F, 9, None, Hist.&Civics, Even
-6F, 10, None, Hist.&Civics, All
-7L, 9, None, Hist.&Civics, All
-7L, 11, None, Hist.&Civics, Odd
-2E, 5, None, EVS.II, All
-2E, 6, None, EVS.II, All
-6I, 11, None, Hist.&Civics, Even
-6I, 11, None, Hist.&Civics, All
-11 Psychology 6th Sub, 11, None, Psychology 6th, All
+4K, 4, Rwijuta BhattacharjeeNew_Mrinalini Mukherjee_ADH, EVS.SST.IV, All
+12Y ((HUMANITIES.1), 8, Paromita Mitra BowmikNew_Sushweta Acharjee, Psychology+2, All
+11Y(Hum), 1, New_Sushweta AcharjeeNew_Mrinalini Mukherjee_ADH, Psychology+2, All
+5L, 9, Rwijuta BhattacharjeeNew_Mrinalini Mukherjee_ADH, EVS_SST.V, All
+3I, 1, Kajri RaymahasayNew_Mrinalini Mukherjee_ADH, EVS III, All
+3I, 5, Kajri RaymahasayNew_Mrinalini Mukherjee_ADH, EVS III, All
+5C, 2, Kajri RaymahasayNew_Mrinalini Mukherjee_ADH, EVS_SST.V, All
+4J, 10, Kajri RaymahasayNew_Mrinalini Mukherjee_ADH, EVS.SST.IV, All
+6D, 5, Kajri RaymahasayParomita Mukherjee, Hist.&Civics, All
+6D, 1, Kajri RaymahasayParomita Mukherjee, Hist.&Civics, Odd
+6F, 9, Kajri RaymahasayNew_Sreya choudhury_history, Hist.&Civics, Even
+6F, 10, Kajri RaymahasayNew_Sreya choudhury_history, Hist.&Civics, All
+7L, 9, Kajri RaymahasayNew_Sreya choudhury_history, Hist.&Civics, All
+7L, 11, Kajri RaymahasayNew_Sreya choudhury_history, Hist.&Civics, Odd
+2E, 5, Kajri RaymahasayManisha Khanna, EVS.II, All
+2E, 6, Kajri RaymahasayManisha Khanna, EVS.II, All
+6I, 11, Kajri RaymahasayParomita Mukherjee, Hist.&Civics, Even
+6I, 11, Kajri RaymahasayParomita Mukherjee, Hist.&Civics, All
+11 Psychology 6th Sub, 11, New_Mrinalini Mukherjee_ADHNew_Sushweta Acharjee, Psychology 6th, All
 11C  Bio.M, 8, Indranil Sengupta, Maths.11, All
 11K- CS, 3, Kanchan Kumari, Maths.11, All
 11A Bio.M, 3, Indranil Sengupta, Maths.11, All
@@ -2383,7 +2382,7 @@ None, 2, Alokananda Mukherjee, Eco.Comm+2, All
 11B Bio.M, 3, Koushik Sarkar, Maths.11, All
 11P- ECO/CS, 3, Kanchan Kumari, Maths.11, All
 9H, 1, Arindam Maths.New, Maths.Sr, All
-3I, 2, None, G.K A.V, All
+3I, 2, Kajri RaymahasayAisha Farooq, G.K A.V, All
 9F, 9, New_Abhishek Ghosh_TGT, Maths.Sr, All
 9K, 5, New_Abhishek Ghosh_TGT, Maths.Sr, All
 8G, 6, New_Abhishek Ghosh_TGT, Maths.Sr, All
@@ -2397,15 +2396,15 @@ None, 2, Alokananda Mukherjee, Eco.Comm+2, All
 11P- ECO/CS, 9, New Arijit Sarkar, Chemistry Lab +2, Even
 11J - CS, 3, New Arijit Sarkar, Chemistry Lab +2, Odd
 11R-Sp.- Eco/CS/Bio, 9, New Arijit Sarkar, Chemistry Lab +2, Even
-None, 6, Anita Singh, Hindi(2nd).Jr, All
+4I-4J, 6, Anita Singh, Hindi(2nd).Jr, All
 2L, 5, Babita Tiwari, Hindi(2nd).Jr, All
-None, 5, Archana Dwivedi, Hindi(2nd).Jr, All
+4G-4H, 5, Archana Dwivedi, Hindi(2nd).Jr, All
 5I, 2, Soma Roy, Hindi(2nd).Jr, All
 6J, 6, Soma Roy, Hindi(2nd).Sr, All
 7G, 4, Soma Roy, Hindi(2nd).Sr, All
 6G, 10, Soma Roy, Hindi(2nd).Sr, All
-None, 10, Soma Roy, Hindi(3rd), All
-7L, 4, None, Hindi(2nd).Sr, All
+7I-7J-7K-7L, 10, Soma Roy, Hindi(3rd), All
+7L, 4, Anju DubeyNitu Singh, Hindi(2nd).Sr, All
 11F-Bio.M, 11, Arundhati Bose, English.11, All
 11T.Com.IP.PE, 2, Snigdha Chakraborty, Eng.Com+2, All
 11G BIO PE, 1, New_Sumana Das_PGT, English.11, All
@@ -2419,7 +2418,7 @@ None, 10, Soma Roy, Hindi(3rd), All
 11Q-Sp.MED, 8, Subrata Mitra, Chem.Sp.+2, Odd
 8I, 11, New_Adrija Chaudhuri, English.Sr, All
 8G, 11, New_Adrija Chaudhuri, English.Sr, All
-12Q-SP.MED, 11, None, Library_Sr, All
+12Q-SP.MED, 11, No teacher, Library_Sr, All
 4E, 9, New_Adrija Chaudhuri, Value Education, All
 5F, 9, New_Adrija Chaudhuri, Value Education, All
 7J, 10, New_Adrija Chaudhuri, English.Sr, All

@@ -44,30 +44,50 @@ def main():
             data.getAttribute("period"), data.getAttribute("weeks")]
 
     # Using dicts to get required information
-    req_info = [[]]
-    for key, value in card_dict.items():
+    req_info = []
+    for key, value in lesson_dict.items():
         indv_elem = []
 
         # Class
-        class_id = lesson_dict.get(key)[0]
-        indv_elem.append(class_dict.get(class_id))
+        class_id = value[0]
+        if ',' in class_id:
+            temp = ""
+            arr = value[0].split(",")
+            for i in arr:
+                temp += class_dict.get(i)
+                if i != arr[len(arr)-1]:
+                    temp += "-"
+            indv_elem.append(temp)
+        else:
+            indv_elem.append(class_dict.get(class_id))
 
         # Period
-        indv_elem.append(value[0])
+        indv_elem.append(card_dict.get(key)[0])
 
         # Teacher name
-        teacher_id = lesson_dict.get(key)[2]
-        indv_elem.append(teacher_dict.get(teacher_id))
+        teacher_id = value[2]
+        if ',' in teacher_id:
+            temp=""
+            arr = value[2].split(",")
+            for i in arr:
+                temp += teacher_dict.get(i)
+            indv_elem.append(temp)
+        elif teacher_id == "":
+            indv_elem.append("No teacher")
+        else:
+            indv_elem.append(teacher_dict.get(teacher_id))
 
         # Subject
-        subject_id = lesson_dict.get(key)[1]
+        subject_id = value[1]
         indv_elem.append(subject_dict.get(subject_id))
 
         # Week
-        if (value[1] == "10"):
+        if (card_dict.get(key)[1] == "10"):
             indv_elem.append("Odd")
-        elif (value[1] == "01"):
+        elif (card_dict.get(key)[1] == "01"):
             indv_elem.append("Even")
+        elif (card_dict.get(key)[1] == ""):
+            indv_elem.append("No information")
         else:
             indv_elem.append("All")
 
