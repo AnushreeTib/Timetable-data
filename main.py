@@ -6,7 +6,7 @@ def main():
     '''Presenting formatted data from the timetable xml file'''
 
     #  !!!--> THIS DOC NAME SHOULD BE CHANGED FOR NEWER TIMETABLES (XML files) <--!!!
-    doc_name = "asctt2012.xml"
+    doc_name = input("Input name of file: ")
     doc = xml.dom.minidom.parse(doc_name)
 
     # Creating dictionaries of all the data required
