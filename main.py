@@ -80,6 +80,7 @@ def main():
         teacher_id = value[2]
         if ',' in teacher_id:
             temp = ""
+
             arr = value[2].split(",")
             for i in arr:
                 temp += teacher_dict.get(i)
@@ -122,7 +123,6 @@ def main():
                    "Teacher", "Subject", "Day", "Classrooom", "Week"]
 
     np.savetxt("REQUIRED.csv", req_info, delimiter=", ", fmt='% s')
-
 
 if __name__ == "__main__":
     main()
